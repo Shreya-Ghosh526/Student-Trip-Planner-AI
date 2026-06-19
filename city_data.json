@@ -1,0 +1,2898 @@
+{
+  "Kolkata": {
+    "state": "West Bengal",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "April": "Very hot and humid, 38-42C. Avoid outdoor activities 10AM-5PM. Stick to museums and air-conditioned venues.",
+      "May": "Extremely hot, 40-45C. Dangerously high temperatures. Avoid outdoor sightseeing entirely during 10AM-5PM. Indoor/AC only.",
+      "June": "Pre-monsoon and monsoon start. Extreme humidity. Midday outdoor activities should be avoided.",
+      "July": "Heavy monsoon. Waterlogging possible. Outdoor parks are muddy and best avoided. Carry rain gear.",
+      "August": "Monsoon continues. Outdoor walking is difficult. Good for visiting indoor galleries.",
+      "September": "Warm but pleasant. Festive spirit begins. Great for evening walk at Princep Ghat.",
+      "October": "Durga Puja season. Electric atmosphere. Very crowded but pleasant temperature.",
+      "November": "Excellent weather, cool and dry. Ideal for visiting Eco Park and outdoor heritage tours.",
+      "December": "Peak season, very pleasant (15-25C). Christmas carnival at Park Street.",
+      "January": "Cool and comfortable weather. Perfect for walking tours, Princep Ghat, and Eco Park.",
+      "February": "Mild weather, warming up slightly. Good for outdoor sightseeing.",
+      "March": "Warm but tolerable. Morning or late evening outdoor tours recommended."
+    },
+    "entry_fees": {
+      "Victoria Memorial (Palace Museum + Garden)": "Rs.100 per person (Indians), Free for students in uniform/with school ID",
+      "Victoria Memorial (Garden only)": "Rs.80 per person (Indians)",
+      "Indian Museum": "Rs.70 per person (Indians), Rs.20 for students with ID, camera extra Rs.30",
+      "Eco Park": "Rs.30 weekdays, Rs.50 weekends & holidays, rides extra",
+      "Science City": "Rs.60 entry + Rs.150 for Space Theatre",
+      "Marble Palace": "Free entry (requires 24-hr advance permit from West Bengal Tourism Office)",
+      "Birla Planetarium": "Rs.100 per person",
+      "Princep Ghat": "Free entry, country boat ride Rs.200-400 per hour",
+      "Howrah Bridge": "Free",
+      "Kalighat Temple": "Free (donation optional)",
+      "Dakshineswar Temple": "Free",
+      "Botanical Garden": "Rs.20 per person"
+    },
+    "budget_stays": {
+      "Zostel Kolkata": "Rs.500-750 per bed in dorm",
+      "Backpacker Panda": "Rs.450-650 per bed",
+      "Hotel Galaxy (Sudar Street)": "Rs.800-1300 per room",
+      "Barsana Guest House": "Rs.700-1000 per room"
+    },
+    "food": {
+      "Sharma Dhaba (Ballygunge)": "Famous for Punjabi meals and tea, Lunch/Dinner (Rs.150-250)",
+      "Anadi Cabin (Bowbazar)": "Famous for Mughlai Paratha, Breakfast/Snack (Rs.80-150)",
+      "Kusum Rolls (Park Street)": "Famous for egg/chicken kathi rolls, Snack (Rs.60-120)",
+      "Arsalan (Park Circus)": "Famous for Kolkata Biryani, Lunch/Dinner (Rs.200-300)",
+      "Balwant Singh Dhaba (Elgin Road)": "Kesar Chai and samosas, Breakfast/Evening (Rs.100-200)",
+      "Dilkhusha Cabin (College Street)": "Kabiraji cutlet and fish fry, Snacks (Rs.100-180)",
+      "Bhim Chandra Nag": "Traditional Bengali sweets, Snacks (Rs.40-100)",
+      "Tiretti Bazaar": "Chinese street breakfast, Breakfast (Rs.60-100)"
+    },
+    "local_transport": {
+      "Metro Railway": "Rs.5-25 depending on distance",
+      "Auto Rickshaw (Shared routes)": "Rs.10-30 per passenger",
+      "Yellow Taxi": "Rs.50-150 base fare/city rides",
+      "Tram": "Rs.7 flat fare",
+      "Ferry Service": "Rs.10 per crossing",
+      "App Cabs (Ola/Uber)": "Rs.80-250 depending on distance"
+    },
+    "must_visit": [
+      "Victoria Memorial",
+      "Indian Museum",
+      "Eco Park",
+      "Princep Ghat",
+      "Marble Palace",
+      "Howrah Bridge",
+      "Science City",
+      "Dakshineswar Temple",
+      "College Street",
+      "Park Street"
+    ]
+  },
+  "Goa": {
+    "state": "Goa",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "June": "Heavy monsoon. Most shacks and water sports closed. Sea is rough and dangerous.",
+      "July": "Peak monsoon. Beautiful green landscape but beaches closed for swimming.",
+      "August": "Monsoon. Waterfalls at their best. Beaches still not safe for swimming.",
+      "September": "Monsoon ending. Some shacks reopen. Good for budget travel.",
+      "October": "Post-monsoon. Shacks reopening. Sea calming. Good weather.",
+      "November": "Peak season begins. Perfect weather. All water sports open.",
+      "December": "Most popular month. Christmas and New Year celebrations. Prices spike 30-50%.",
+      "January": "Great weather. Slightly less crowded than December.",
+      "February": "Carnival time in February. Excellent weather.",
+      "March": "Getting warmer. Still good. Last month of peak season.",
+      "April": "Hot and humid, 35-38C. Off season begins. Very cheap rates.",
+      "May": "Very hot. Most tourists gone. Cheapest time to visit."
+    },
+    "entry_fees": {
+      "Fort Aguada": "Free",
+      "Chapora Fort": "Free",
+      "Basilica of Bom Jesus": "Free",
+      "Se Cathedral": "Free",
+      "Dudhsagar Waterfalls (jeep package)": "Rs.3500-4500 per jeep (shared - 6 people)",
+      "Spice Plantation tour": "Rs.600-800 per person including lunch",
+      "Casino (boat casino entry)": "Rs.2000-3000 per person including credits",
+      "Night cruise": "Rs.400-600 per person"
+    },
+    "water_sports": {
+      "Parasailing": "Rs.700-1000 per person",
+      "Banana boat ride": "Rs.300-400 per person",
+      "Jet ski (15 min)": "Rs.700-900 per person",
+      "Scuba diving (beginner)": "Rs.3500-4500 per person",
+      "Kayaking (1 hour)": "Rs.400-600 per person"
+    },
+    "budget_stays": {
+      "Zostel Goa (Anjuna)": "Rs.600-900 per bed in dorm",
+      "Jungle Hostel Morjim": "Rs.500-700 per bed",
+      "Palolem Beach guesthouses": "Rs.800-1500 per room",
+      "Arambol budget guesthouses": "Rs.600-1200 per room"
+    },
+    "food": {
+      "Britto's (Baga)": "Seafood Rs.200-400 per dish",
+      "Infantaria Cafe (Calangute)": "Breakfast Rs.100-200",
+      "Cafe Bodega (Panaji)": "Lunch Rs.150-250",
+      "Thalassa (Vagator)": "Dinner Rs.300-500",
+      "Local beach shacks": "Fish curry rice Rs.150-250",
+      "Anjuna flea market food stalls": "Snacks Rs.50-150"
+    },
+    "local_transport": {
+      "Scooter rental (per day)": "Rs.300-500",
+      "Bike rental (per day)": "Rs.500-800",
+      "Local bus (Kadamba)": "Rs.10-30 per trip",
+      "Auto/taxi": "Rs.150-400 depending on distance"
+    },
+    "must_visit": [
+      "Baga Beach",
+      "Anjuna Beach",
+      "Fort Aguada",
+      "Basilica of Bom Jesus",
+      "Anjuna Flea Market",
+      "Dudhsagar Waterfalls",
+      "Chapora Fort",
+      "Calangute Beach",
+      "Palolem Beach"
+    ]
+  },
+  "Jaipur": {
+    "state": "Rajasthan",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "April": "Very hot, 38-42C. Avoid outdoor monuments 11AM-5PM. Early morning visits only.",
+      "May": "Extremely hot, 42-48C. Avoid most outdoor activities. Stay indoors midday.",
+      "June": "Pre-monsoon heat. 44-46C. Only visit forts at dawn.",
+      "July": "Monsoon. Cooler but humid. Some forts slippery.",
+      "August": "Monsoon continues. Scenic green Aravalli hills.",
+      "September": "Monsoon ending. Still warm but bearable.",
+      "October": "Pleasant weather. Navratri and Dussehra celebrations.",
+      "November": "Best time. Cool and clear. Perfect for all sightseeing.",
+      "December": "Peak season. Cool evenings. Slightly crowded.",
+      "January": "Cold nights (8-10C). Warm days. Ideal for forts.",
+      "February": "Holi preparations. Excellent weather.",
+      "March": "Holi festival. Warming up but still good."
+    },
+    "entry_fees": {
+      "Amber Fort": "Rs.200 per person (Indians)",
+      "City Palace": "Rs.190 per person (Indians)",
+      "Hawa Mahal": "Rs.50 per person (Indians)",
+      "Jantar Mantar": "Rs.50 per person (Indians)",
+      "Nahargarh Fort": "Rs.50 per person (Indians)",
+      "Jaigarh Fort": "Rs.70 per person (Indians)",
+      "Albert Hall Museum": "Rs.40 per person (Indians)",
+      "Composite ticket (7 monuments)": "Rs.300 per person (Indians) - best value",
+      "Birla Temple": "Free",
+      "Govind Dev Ji Temple": "Free"
+    },
+    "budget_stays": {
+      "Zostel Jaipur": "Rs.450-650 per bed in dorm",
+      "Moustache Hostel": "Rs.500-700 per bed",
+      "Hotel Pearl Palace": "Rs.800-1500 per room",
+      "Arya Niwas": "Rs.1000-1800 per room"
+    },
+    "food": {
+      "LMB (Laxmi Misthan Bhandar)": "Dal baati churma Rs.200-300, sweets Rs.50-150",
+      "Rawat Misthan Bhandar": "Pyaaz kachori Rs.30-40, breakfast Rs.80-120",
+      "Tapri (MI Road)": "Tea and snacks Rs.50-100",
+      "Masala Chowk (Central Park)": "Street food various stalls Rs.50-150",
+      "Chokhi Dhani (village theme dinner)": "Rs.600-800 per person full meal",
+      "Spice Court": "Rajasthani thali Rs.250-400"
+    },
+    "local_transport": {
+      "Auto rickshaw": "Rs.50-150 for city trips",
+      "E-rickshaw": "Rs.10-30 per trip",
+      "Jaipur Metro": "Rs.15-30 per trip",
+      "App cab (Ola/Uber)": "Rs.80-200 for city trips",
+      "Cycle rickshaw (old city)": "Rs.30-80"
+    },
+    "must_visit": [
+      "Amber Fort",
+      "Hawa Mahal",
+      "City Palace",
+      "Jantar Mantar",
+      "Nahargarh Fort",
+      "Johri Bazaar",
+      "Chokhi Dhani",
+      "Albert Hall Museum"
+    ]
+  },
+  "Manali": {
+    "state": "Himachal Pradesh",
+    "best_months": [
+      "October",
+      "November",
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "avoid_months": [],
+    "seasonal_notes": {
+      "December": "Heavy snowfall. Roads to Rohtang and Solang may close. Very cold -5 to 5C. Ideal for snow activities.",
+      "January": "Peak winter. -10 to 2C. Snow everywhere. Limited mobility but beautiful.",
+      "February": "Still very cold. Snow festivals. Great for adventure sports on snow.",
+      "March": "Snow melting. Roads opening. 5-15C. Good time to visit.",
+      "April": "Rohtang Pass opens. Apple blossoms. 10-20C. Excellent.",
+      "May": "Peak season. Rohtang accessible. 15-25C. Very crowded.",
+      "June": "Pre-monsoon. Lush green. 18-28C. Slightly humid.",
+      "July": "Monsoon. Landslide risk on mountain roads. Avoid Rohtang.",
+      "August": "Peak monsoon. Landslide risk. Some activities suspended.",
+      "September": "Post monsoon. Streams full. Clear skies. 12-22C.",
+      "October": "Autumn colors. Cool weather. 5-18C. Beautiful.",
+      "November": "Early snowfall. Rohtang closing. 0-12C. Quiet and scenic."
+    },
+    "entry_fees": {
+      "Rohtang Pass permit": "Rs.500-600 per vehicle (non-Himachali) + Green tax Rs.50",
+      "Solang Valley": "Rs.150 for access, activities extra",
+      "Hadimba Temple": "Free",
+      "Naggar Castle": "Rs.30 per person (Indians)",
+      "Manu Temple": "Free",
+      "Great Himalayan National Park": "Rs.50 per person"
+    },
+    "activities": {
+      "Paragliding (Solang Valley)": "Rs.2500-3500 per person",
+      "Snow scooter (winter)": "Rs.500-800 per round",
+      "Skiing (Solang Valley)": "Rs.500-1500 depending on duration",
+      "River rafting (Beas River)": "Rs.600-1000 per person",
+      "ATV ride": "Rs.500-800 per person"
+    },
+    "budget_stays": {
+      "Zostel Manali": "Rs.500-700 per bed in dorm",
+      "Moustache Hostel Manali": "Rs.500-800 per bed",
+      "Budget guesthouses (Old Manali)": "Rs.600-1200 per room",
+      "Vashisht village homestays": "Rs.500-900 per room"
+    },
+    "food": {
+      "Johnson Bar (Old Manali)": "Trout fish Rs.300-450, meals Rs.200-350",
+      "Dylan's Toasted and Roasted": "Breakfast Rs.150-250, cafe food",
+      "Cafe 1947": "Pizza and pasta Rs.200-350",
+      "Chopsticks Restaurant": "Momos Rs.80-120, Tibetan food Rs.150-250",
+      "Sartaj Fast Food": "Rajma chawal Rs.80-120, cheap local food",
+      "German Bakery": "Baked goods Rs.60-150"
+    },
+    "local_transport": {
+      "Local bus (HRTC)": "Rs.20-60 within Manali",
+      "Auto rickshaw": "Rs.50-150",
+      "Taxi (Manali-Solang)": "Rs.600-900 per cab",
+      "Bike rental": "Rs.400-800 per day"
+    },
+    "must_visit": [
+      "Rohtang Pass",
+      "Solang Valley",
+      "Hadimba Temple",
+      "Old Manali",
+      "Vashisht Hot Springs",
+      "Naggar Castle",
+      "Beas River"
+    ]
+  },
+  "Mumbai": {
+    "state": "Maharashtra",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "June": "Heavy monsoon. Flooding in low-lying areas. Trains may be delayed.",
+      "July": "Peak monsoon. Marine Drive is spectacular in rain but travel is difficult.",
+      "August": "Monsoon continues. Ganesh Chaturthi celebrations (late August).",
+      "September": "Monsoon ending. Ganesh immersion processions. Very festive.",
+      "October": "Post-monsoon. City freshened up. Good weather.",
+      "November": "Best month begins. 25-32C. Perfect for sightseeing.",
+      "December": "Christmas and New Year. Very festive. Slightly crowded.",
+      "January": "Pleasant. 20-30C. Ideal for everything.",
+      "February": "Good weather. 22-32C.",
+      "March": "Holi. Warming up. Still pleasant.",
+      "April": "Getting hot. 30-36C. Humid.",
+      "May": "Very hot and humid. 32-38C."
+    },
+    "entry_fees": {
+      "Gateway of India": "Free",
+      "Elephanta Caves (ferry + entry)": "Ferry Rs.200 return + entry Rs.40 (Indians)",
+      "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya": "Rs.85 per person (Indians)",
+      "Sanjay Gandhi National Park": "Rs.48 per person (Indians)",
+      "Juhu Beach": "Free",
+      "Marine Drive": "Free",
+      "Haji Ali Dargah": "Free",
+      "Siddhivinayak Temple": "Free",
+      "Dharavi (guided tour)": "Rs.800-1200 per person"
+    },
+    "budget_stays": {
+      "Zostel Mumbai": "Rs.600-900 per bed in dorm",
+      "The Backpacker Co.": "Rs.550-800 per bed",
+      "Hotel Bentley": "Rs.1500-2500 per room (Colaba)",
+      "Hotel Lawrence (Colaba)": "Rs.1200-2000 per room"
+    },
+    "food": {
+      "Cafe Madras (Matunga)": "Idli-dosa breakfast Rs.80-150",
+      "Kyani and Co. (Dhobitalao)": "Bun maska chai Rs.30-60, Irani cafe classics",
+      "Sardar Pav Bhaji (Tardeo)": "Pav bhaji Rs.80-120",
+      "Mohammed Ali Road stalls (Ramzan)": "Kebabs and biryani Rs.100-200",
+      "Badshah Cold Drinks (Crawford Market)": "Falooda Rs.80-120",
+      "Mahesh Lunch Home": "Seafood Rs.250-450 per dish",
+      "Bademiya (Colaba)": "Seekh kebab rolls Rs.100-180"
+    },
+    "local_transport": {
+      "Local train (suburban)": "Rs.10-30 per trip",
+      "BEST bus": "Rs.7-15 per trip",
+      "Metro": "Rs.20-40 per trip",
+      "Auto rickshaw (suburbs only)": "Rs.40-150",
+      "App cab (Ola/Uber)": "Rs.100-300 for city trips",
+      "Ferry (Gateway to Elephanta)": "Rs.200 return"
+    },
+    "must_visit": [
+      "Gateway of India",
+      "Marine Drive",
+      "Elephanta Caves",
+      "Dharavi",
+      "Juhu Beach",
+      "Siddhivinayak Temple",
+      "Haji Ali",
+      "Crawford Market",
+      "Colaba Causeway"
+    ]
+  },
+  "Delhi": {
+    "state": "Delhi",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "April": "Warming up 32-40C. Visit monuments early morning only.",
+      "May": "Extremely hot 42-48C. Loo winds. Avoid all outdoor activities midday.",
+      "June": "Very hot and pre-monsoon dust storms. Only early morning outings.",
+      "July": "Monsoon begins. Cooler but humid. Flooding in some areas.",
+      "August": "Independence Day celebrations. Monsoon continuing.",
+      "September": "Monsoon ending. Post-rain Delhi looks great.",
+      "October": "Excellent weather. Navratri and Dussehra festivals.",
+      "November": "Good weather but smog/pollution can be severe in early November.",
+      "December": "Cold 5-20C. Foggy mornings. Carry woolens.",
+      "January": "Coldest month 3-18C. Republic Day parade on Jan 26.",
+      "February": "Warming up. Excellent for sightseeing.",
+      "March": "Holi. Great weather before summer hits."
+    },
+    "entry_fees": {
+      "Red Fort": "Rs.35 per person (Indians)",
+      "Qutub Minar": "Rs.35 per person (Indians)",
+      "Humayun's Tomb": "Rs.35 per person (Indians)",
+      "India Gate": "Free",
+      "Lotus Temple": "Free",
+      "Akshardham Temple": "Free (inner galleries Rs.170-220)",
+      "National Museum": "Rs.20 per person (Indians)",
+      "Hauz Khas Village": "Free (ruins)",
+      "Chandni Chowk": "Free",
+      "Lodi Garden": "Free"
+    },
+    "budget_stays": {
+      "Zostel Delhi (Paharganj)": "Rs.400-600 per bed in dorm",
+      "Moustache Hostel Delhi": "Rs.450-650 per bed",
+      "Stops Hostel": "Rs.400-600 per bed",
+      "Hotel Namaskar (Paharganj)": "Rs.600-1200 per room"
+    },
+    "food": {
+      "Paranthe Wali Gali (Chandni Chowk)": "Stuffed parathas Rs.60-120",
+      "Karim's (Jama Masjid)": "Mutton curry Rs.200-300, biryani Rs.180-280",
+      "Al Jawahar (Jama Masjid)": "Dal makhani Rs.120-180",
+      "Bengali Market sweets": "Sweets and chaat Rs.50-150",
+      "Saravana Bhavan (Connaught Place)": "South Indian thali Rs.150-250",
+      "Khan Chacha rolls (Khan Market)": "Rolls Rs.120-200",
+      "Lakhori (Adchini)": "North Indian food Rs.200-350"
+    },
+    "local_transport": {
+      "Delhi Metro": "Rs.20-60 per trip depending on distance",
+      "DTC bus": "Rs.10-25 per trip",
+      "Auto rickshaw": "Rs.50-200 for city trips",
+      "E-rickshaw": "Rs.10-30 per trip",
+      "App cab (Ola/Uber)": "Rs.80-250 for city trips"
+    },
+    "must_visit": [
+      "Red Fort",
+      "Qutub Minar",
+      "Humayun's Tomb",
+      "India Gate",
+      "Lotus Temple",
+      "Chandni Chowk",
+      "Akshardham Temple",
+      "Lodi Garden",
+      "Hauz Khas"
+    ]
+  },
+  "Varanasi": {
+    "state": "Uttar Pradesh",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "April": "Getting hot 35-42C. Dev Deepawali preparations. Early morning ghats are fine.",
+      "May": "Very hot 40-46C. Visit ghats only at dawn (5-8AM).",
+      "June": "Monsoon begins. Ghats flood slightly. Still atmospheric.",
+      "July": "Heavy monsoon. Ghats partially submerged. Ganga in full flow.",
+      "August": "Monsoon. Beautiful but difficult travel.",
+      "September": "Post monsoon. Ganga receding. Great atmosphere.",
+      "October": "Navratri and Dussehra. Dev Deepawali in November. Best season.",
+      "November": "Dev Deepawali - most spectacular time. Ghats lit with 1 million lamps.",
+      "December": "Cool 8-22C. Pleasant for ghat walks.",
+      "January": "Cold 5-18C. Morning aarti is magical in winter fog.",
+      "February": "Maha Shivratri celebrated with great fervor.",
+      "March": "Holi in Vrindavan nearby. Good weather."
+    },
+    "entry_fees": {
+      "Kashi Vishwanath Temple": "Free",
+      "Sarnath Museum": "Rs.25 per person (Indians)",
+      "Sarnath ruins (Dhamek Stupa)": "Rs.25 per person (Indians)",
+      "Ramnagar Fort": "Rs.15 per person (Indians)",
+      "Ganga Aarti (Dashashwamedh Ghat)": "Free to watch",
+      "Boat ride on Ganga (sunrise)": "Rs.100-200 per person shared"
+    },
+    "budget_stays": {
+      "Zostel Varanasi": "Rs.400-600 per bed in dorm",
+      "Stops Hostel Varanasi": "Rs.400-600 per bed",
+      "Guesthouses near ghats": "Rs.500-1000 per room",
+      "Hotel Alka (Meer Ghat)": "Rs.800-1500 per room"
+    },
+    "food": {
+      "Blue Lassi Shop (Kashi)": "Lassi Rs.60-100 - famous, must try",
+      "Deena Chaat Bhandar": "Chaat Rs.40-80",
+      "Kashi Chaat Bhandar": "Tamatar chaat Rs.40-70",
+      "Aadha-Aadha (near ghats)": "Thandai Rs.40-80",
+      "Pizzeria Vaatika Cafe": "Breakfast and Italian Rs.150-300",
+      "Megu Cafe (Assi Ghat)": "Budget meals Rs.100-200"
+    },
+    "local_transport": {
+      "Cycle rickshaw (old city)": "Rs.30-80",
+      "Auto rickshaw": "Rs.50-150",
+      "E-rickshaw": "Rs.10-30",
+      "Boat on Ganga": "Rs.100-300 depending on duration"
+    },
+    "must_visit": [
+      "Dashashwamedh Ghat (Ganga Aarti)",
+      "Manikarnika Ghat",
+      "Kashi Vishwanath Temple",
+      "Sarnath",
+      "Assi Ghat",
+      "Ramnagar Fort",
+      "Vishwanath Lane"
+    ]
+  },
+  "Darjeeling": {
+    "state": "West Bengal",
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "October",
+      "November"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Very cold 2-8C. Snow possible on higher peaks. Clear Kanchenjunga views.",
+      "February": "Cold but clear. Cherry blossoms begin.",
+      "March": "Spring. Rhododendrons blooming. 8-16C. Excellent.",
+      "April": "Best weather. 12-20C. Clear mountain views. Tea gardens lush.",
+      "May": "Pre-monsoon. Slightly hazy but warm. 14-22C.",
+      "June": "Monsoon begins. Leeches on trails. Avoid trekking.",
+      "July": "Heavy rain and fog. Landslide risk on mountain roads.",
+      "August": "Peak monsoon. Very limited visibility. Not recommended.",
+      "September": "Monsoon ending. Trails muddy. Starting to clear.",
+      "October": "Post-monsoon clarity. Best Kanchenjunga views. 10-18C.",
+      "November": "Clear skies. Cool. 6-14C. Second best season.",
+      "December": "Cold 2-10C. Possible snow. Very peaceful."
+    },
+    "entry_fees": {
+      "Tiger Hill (sunrise)": "Rs.50 per person + jeep hire",
+      "Darjeeling Himalayan Railway (DHR toy train)": "Rs.180 (single journey, Indians)",
+      "Himalayan Mountaineering Institute": "Rs.100 per person (Indians)",
+      "Batasia Loop": "Rs.20 per person",
+      "Padmaja Naidu Himalayan Zoological Park": "Rs.60 per person (Indians)",
+      "Peace Pagoda": "Free",
+      "Happy Valley Tea Estate": "Rs.100 per person including tour"
+    },
+    "budget_stays": {
+      "Zostel Darjeeling": "Rs.500-700 per bed in dorm",
+      "Hayden Hall": "Rs.600-1000 per room",
+      "Hotel Shamrock": "Rs.800-1500 per room",
+      "Homestays (Lebong area)": "Rs.500-900 per room with breakfast"
+    },
+    "food": {
+      "Glenary's Bakery": "Breakfast and baked goods Rs.100-250",
+      "Nathmull's Tea Room": "Tea tasting Rs.100-200",
+      "Kunga Restaurant": "Tibetan thukpa and momos Rs.100-180",
+      "Penang Restaurant": "Chinese and Tibetan Rs.150-300",
+      "Life and Thyme": "Cafe food Rs.150-300",
+      "Chowrasta vendors": "Corn, churmur snacks Rs.20-60"
+    },
+    "local_transport": {
+      "Shared jeep (within Darjeeling)": "Rs.20-50 per seat",
+      "Toy train (DHR)": "Rs.180 per trip",
+      "Local walk (most places walkable)": "Free",
+      "Jeep to Tiger Hill": "Rs.600-800 per jeep (shared)"
+    },
+    "must_visit": [
+      "Tiger Hill (sunrise)",
+      "Batasia Loop",
+      "Toy Train ride",
+      "Padmaja Naidu Zoo",
+      "Happy Valley Tea Estate",
+      "Peace Pagoda",
+      "Chowrasta Mall",
+      "Himalayan Mountaineering Institute"
+    ]
+  },
+  "Rishikesh": {
+    "state": "Uttarakhand",
+    "best_months": [
+      "February",
+      "March",
+      "April",
+      "September",
+      "October",
+      "November"
+    ],
+    "avoid_months": [
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cold 4-15C. River rafting suspended. Peaceful for yoga.",
+      "February": "Maha Shivratri festival. 8-20C. Rafting resumes.",
+      "March": "Excellent. 15-28C. River high enough for rafting.",
+      "April": "International Yoga Festival in March/April. Best for adventure.",
+      "May": "Hot 28-36C but river sports still good. Pre-monsoon.",
+      "June": "Monsoon beginning. Char Dham Yatra season. Crowded.",
+      "July": "Heavy monsoon. River floods. All rafting suspended. Avoid.",
+      "August": "Peak monsoon. Flash floods possible. Avoid adventure activities.",
+      "September": "Monsoon ending. River receding. Rafting may resume late September.",
+      "October": "Post-monsoon. Best for rafting and trekking. 15-28C.",
+      "November": "Good weather. 10-22C. Rivers calming. Good yoga retreat.",
+      "December": "Cold 4-18C. Very peaceful. Yoga centers active."
+    },
+    "entry_fees": {
+      "Triveni Ghat (Ganga Aarti)": "Free",
+      "Laxman Jhula crossing": "Free",
+      "Ram Jhula crossing": "Free",
+      "Neelkanth Mahadev Temple": "Free",
+      "Beatles Ashram (Maharishi Ashram)": "Rs.150 per person",
+      "Parmarth Niketan Ganga Aarti": "Free"
+    },
+    "activities": {
+      "River rafting (16km stretch)": "Rs.600-1000 per person",
+      "River rafting (36km stretch)": "Rs.1500-2500 per person",
+      "Bungee jumping (highest in India)": "Rs.3500 per person",
+      "Flying fox": "Rs.1500 per person",
+      "Camping (per night with meals)": "Rs.1000-1800 per person",
+      "Yoga class (drop-in)": "Rs.300-600 per session"
+    },
+    "budget_stays": {
+      "Zostel Rishikesh": "Rs.400-600 per bed in dorm",
+      "Moustache Hostel": "Rs.450-650 per bed",
+      "Ashram stays (Parmarth Niketan)": "Rs.500-1000 per room with meals",
+      "Guesthouses near Laxman Jhula": "Rs.500-1200 per room"
+    },
+    "food": {
+      "Little Buddha Cafe": "Israeli and Indian Rs.150-300",
+      "Chotiwala Restaurant": "Thali Rs.150-250",
+      "Freedom Cafe": "Breakfast and international Rs.150-300",
+      "German Bakery": "Baked goods and coffee Rs.80-200",
+      "Madras Cafe": "South Indian breakfast Rs.80-150"
+    },
+    "local_transport": {
+      "Shared auto": "Rs.10-30 per trip",
+      "Walking (Laxman Jhula to Ram Jhula)": "30 minutes walk",
+      "Cycle rental": "Rs.100-200 per day"
+    },
+    "must_visit": [
+      "Triveni Ghat (Ganga Aarti)",
+      "Laxman Jhula",
+      "Ram Jhula",
+      "Beatles Ashram",
+      "Neelkanth Mahadev Temple",
+      "River Rafting",
+      "Parmarth Niketan"
+    ]
+  },
+  "Amritsar": {
+    "state": "Punjab",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "April": "Baisakhi festival in April. Warm 28-36C.",
+      "May": "Very hot 38-45C. Avoid outdoor activities midday.",
+      "June": "Extremely hot 40-46C. Only visit Golden Temple early morning.",
+      "July": "Monsoon. Slight relief from heat. 30-36C.",
+      "August": "Independence Day. Wagah border ceremony very special.",
+      "September": "Post-monsoon. Cooling down. 28-36C.",
+      "October": "Excellent. 18-28C. Diwali season.",
+      "November": "Great weather. 10-22C.",
+      "December": "Cold 4-16C. Foggy mornings. Very atmospheric at Golden Temple.",
+      "January": "Coldest month. 2-14C. Republic Day Wagah parade very special.",
+      "February": "Good weather. 10-22C.",
+      "March": "Holi. Warming up. Last good month."
+    },
+    "entry_fees": {
+      "Golden Temple (Harmandir Sahib)": "Free (head cover required)",
+      "Jallianwala Bagh": "Free",
+      "Wagah Border ceremony (Attari)": "Free (reach early for good seats)",
+      "Durgiana Temple": "Free",
+      "Partition Museum": "Rs.100 per person (Indians)",
+      "Gobindgarh Fort": "Rs.300 per person (full access)"
+    },
+    "budget_stays": {
+      "Zostel Amritsar": "Rs.400-600 per bed in dorm",
+      "Hotel CJ International": "Rs.800-1500 per room",
+      "Tourist guesthouses (near Golden Temple)": "Rs.600-1200 per room"
+    },
+    "food": {
+      "Langar at Golden Temple": "Free - open to all 24 hours",
+      "Kesar Da Dhaba": "Dal makhani and kulcha Rs.150-250",
+      "Brothers Dhaba": "Amritsari kulcha Rs.60-100",
+      "Bharawan Da Dhaba": "Traditional Punjabi thali Rs.200-300",
+      "Gurdas Ram Jalebi Wale": "Jalebis and lassi Rs.50-100",
+      "Lawrence Road food street": "Various dishes Rs.80-200"
+    },
+    "local_transport": {
+      "Cycle rickshaw": "Rs.30-80",
+      "Auto rickshaw": "Rs.50-150",
+      "E-rickshaw": "Rs.20-50",
+      "Taxi to Wagah Border": "Rs.300-500 per cab one way"
+    },
+    "must_visit": [
+      "Golden Temple",
+      "Jallianwala Bagh",
+      "Wagah Border ceremony",
+      "Durgiana Temple",
+      "Partition Museum",
+      "Hall Bazaar"
+    ]
+  },
+  "Udaipur": {
+    "state": "Rajasthan",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for sightseeing and outdoor activities like boat rides on Lake Pichola.",
+      "February": "Mild winters, perfect for exploring the city on foot or by bicycle.",
+      "March": "Temperature starts rising, but still a good time to visit before the summer heat sets in.",
+      "April": "Hot days and warm nights, try to avoid outdoor activities during peak sun hours.",
+      "May": "Very hot, avoid visiting during this month if possible.",
+      "June": "Summer is at its peak, monsoon is expected to start by the end of the month.",
+      "July": "Monsoon season, expect heavy rainfall and potential disruptions in travel.",
+      "August": "Continued monsoon, scenic landscapes but potential for flooding.",
+      "September": "Weather starts to cool down, a good time to visit before the tourist season starts.",
+      "October": "Pleasant weather returns, ideal for all outdoor activities.",
+      "November": "Cool and pleasant, perfect for sightseeing and exploring the city.",
+      "December": "Mild winters, a great time to enjoy the city's festive atmosphere."
+    },
+    "entry_fees": {
+      "City Palace": "Rs. 30 per person (Indians), Rs. 15 for students with ID",
+      "Lake Pichola": "Free, but boat ride costs Rs. 400-600 per person"
+    },
+    "budget_stays": {
+      "Zostel Udaipur": "Rs. 500-700 per bed in dorm",
+      "Hotel Hanuman Ghat": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Savage Garden (near City Palace, Italian and Mexican cuisine)": "Lunch/Dinner (Rs. 200-300)",
+      "Ambrai Restaurant (near Lake Pichola, Indian cuisine)": "Lunch/Dinner (Rs. 150-250)",
+      "Bharatiya Lok Kala Mandal (near City Palace, traditional Rajasthani cuisine)": "Lunch (Rs. 100-150), Dinner (Rs. 150-200)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "City Palace",
+      "Lake Pichola",
+      "Jag Mandir",
+      "Fateh Sagar Lake",
+      "Monsoon Palace"
+    ]
+  },
+  "Agra": {
+    "state": "Uttar Pradesh",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant, ideal for sightseeing. Average temperature ranges from 2-15\u00b0C.",
+      "February": "Mild winter, good for outdoor activities. Average temperature ranges from 10-20\u00b0C.",
+      "March": "Starting to get warm, but still pleasant. Average temperature ranges from 15-25\u00b0C.",
+      "April": "Getting hotter, but still manageable. Average temperature ranges from 20-30\u00b0C.",
+      "May": "Very hot, temperatures often reach 45\u00b0C. Avoid outdoor activities during peak sun hours.",
+      "June": "Extremely hot, temperatures can reach 48\u00b0C. Stay hydrated and avoid outdoor activities.",
+      "July": "Monsoon season starts, temperatures decrease, but humidity increases. Average temperature ranges from 25-35\u00b0C.",
+      "August": "Monsoon season continues, temperatures and humidity remain high. Average temperature ranges from 25-35\u00b0C.",
+      "September": "Monsoon season ends, temperatures start to decrease. Average temperature ranges from 20-30\u00b0C.",
+      "October": "Pleasant weather, ideal for sightseeing. Average temperature ranges from 15-25\u00b0C.",
+      "November": "Cool and pleasant, ideal for outdoor activities. Average temperature ranges from 10-20\u00b0C.",
+      "December": "Cool winter, good for sightseeing. Average temperature ranges from 5-15\u00b0C."
+    },
+    "entry_fees": {
+      "Taj Mahal": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Agra Fort": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Fatehpur Sikri": "Rs. 50 per person (Indians), Rs. 20 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Agra": "Rs. 500-700 per bed in dorm",
+      "Hotel Priya": "Rs. 800-1200 per room",
+      "Agra Guest House": "Rs. 600-1000 per room"
+    },
+    "food": {
+      "Dasaprakash (South Indian cuisine)": "Lunch/Dinner (Rs. 150-250)",
+      "Pinch of Spice (North Indian cuisine)": "Lunch/Dinner (Rs. 200-300)",
+      "Mama Chicken (Street food)": "Snacks (Rs. 50-100)",
+      "Deviram Sweets (Sweets and snacks)": "Sweets and snacks (Rs. 50-150)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Cycle Rickshaw": "Rs. 20-50 depending on distance"
+    },
+    "must_visit": [
+      "Taj Mahal",
+      "Agra Fort",
+      "Fatehpur Sikri",
+      "Akbar's Mausoleum",
+      "Itmad-Ud-Daulah's Tomb"
+    ]
+  },
+  "Bengaluru": {
+    "state": "Karnataka",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting Lalbagh Botanical Garden or taking a stroll at Cubbon Park.",
+      "February": "Mild climate, perfect for exploring the city's cultural attractions like the Bangalore Palace and ISKCON Temple.",
+      "March": "Temperature starts rising, but still a good time to visit famous landmarks like Tipu Sultan's Summer Palace.",
+      "April": "Hot and humid, avoid outdoor activities during peak sun hours, prefer visiting air-conditioned malls like Orion Mall or Phoenix MarketCity.",
+      "May": "Very hot, try to stay indoors during the day, visit places like Visvesvaraya Industrial and Technological Museum in the evening.",
+      "June": "Start of monsoon season, expect occasional rain showers, visit indoor attractions like the National Gallery of Modern Art.",
+      "July": "Monsoon season, heavy rainfall expected, prefer indoor activities like visiting the Karnataka Chitrakala Parishath art gallery.",
+      "August": "Continuation of monsoon season, flooded roads possible, avoid traveling during peak rain hours.",
+      "September": "End of monsoon season, pleasant weather returns, ideal for outdoor activities like visiting the Bannerghatta Biological Park.",
+      "October": "Festive season begins, pleasant weather, ideal time to visit famous landmarks and attend cultural events.",
+      "November": "Cool and pleasant climate, perfect for exploring the city's many lakes and gardens.",
+      "December": "Mild winter, ideal for outdoor activities and visiting popular tourist spots like the Bangalore Fort."
+    },
+    "entry_fees": {
+      "Lalbagh Botanical Garden": "Rs. 20 per person (Indians), Rs. 10 for students with ID",
+      "Bangalore Palace": "Rs. 230 per person (Indians), Rs. 115 for students with ID",
+      "ISKCON Temple": "Free, but donations welcome"
+    },
+    "budget_stays": {
+      "Zostel Bangalore": "Rs. 600-900 per bed in dorm",
+      "Social Hub Hostel": "Rs. 500-800 per bed in dorm",
+      "Budget Guest House": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Vidyarthi Bhavan (Basavangudi)": "Breakfast (Rs. 50-100), Lunch (Rs. 100-150)",
+      "MTR 1924 (Multiple locations)": "Breakfast (Rs. 100-150), Lunch (Rs. 150-250)",
+      "Khwaja Chowk (Frazer Town)": "Dinner (Rs. 150-250)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus (BMTC)": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Lalbagh Botanical Garden",
+      "Bangalore Palace",
+      "Cubbon Park",
+      "ISKCON Temple"
+    ]
+  },
+  "Hyderabad": {
+    "state": "Telangana",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting monuments and parks.",
+      "February": "Mild winters, suitable for exploring the city on foot or by cycle.",
+      "March": "Temperature starts rising, but still a good time to visit famous landmarks.",
+      "April": "Hot and humid, prefer indoor activities or visit water parks.",
+      "May": "Peak summer, avoid outdoor activities during the day.",
+      "June": "Very hot, prefer staying indoors or visiting malls and cinemas.",
+      "July": "Monsoon season starts, expect occasional rains and traffic jams.",
+      "August": "Heavy rains, prefer indoor activities or visit museums and galleries.",
+      "September": "Rainy season continues, but the weather starts to cool down.",
+      "October": "Pleasant weather, ideal for outdoor activities and festivals.",
+      "November": "Mild winters, suitable for exploring the city and visiting monuments.",
+      "December": "Cool and pleasant, ideal for outdoor activities and New Year celebrations."
+    },
+    "entry_fees": {
+      "Charminar": "Rs. 20 per person (Indians), Rs. 10 for students with ID",
+      "Golconda Fort": "Rs. 15 per person (Indians), Rs. 5 for students with ID",
+      "Birla Mandir": "Free"
+    },
+    "budget_stays": {
+      "Zostel Hyderabad": "Rs. 500-700 per bed in dorm",
+      "Hotel Harsha": "Rs. 800-1200 per room",
+      "Lemon Tree Hotel": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Paradise Biryani (Secunderabad)": "Lunch/Dinner (Rs.150-250)",
+      "Shadab Restaurant (Near Charminar)": "Lunch/Dinner (Rs.100-200)",
+      "Chutneys (Hitech City)": "Breakfast/Lunch (Rs.100-200)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus (TSRTC)": "Rs. 10-30 per ticket",
+      "Metro Rail": "Rs. 10-60 per ticket"
+    },
+    "must_visit": [
+      "Charminar",
+      "Golconda Fort",
+      "Birla Mandir",
+      "Hussain Sagar Lake",
+      "Qutub Shahi Tombs"
+    ]
+  },
+  "Chennai": {
+    "state": "Tamil Nadu",
+    "best_months": [
+      "January",
+      "February",
+      "November",
+      "December"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting beaches and temples.",
+      "February": "Mild climate, suitable for exploring the city's cultural events and festivals.",
+      "March": "Temperature starts rising, but still a good time to visit famous landmarks like Kapaleeswarar Temple.",
+      "April": "Hot and humid, avoid outdoor activities during peak sun hours.",
+      "May": "Summer is at its peak, prefer indoor activities like visiting museums and shopping malls.",
+      "June": "Rainy season begins, but the heat is still intense, plan accordingly.",
+      "July": "Monsoon season, expect occasional heavy rains, but the weather is relatively cooler.",
+      "August": "Continued monsoon season, some tourist attractions might be closed due to rain.",
+      "September": "Rain starts to subside, a good time to visit beaches and outdoor spots.",
+      "October": "Pleasant weather returns, ideal for visiting temples and attending cultural events.",
+      "November": "Mild climate, perfect for exploring the city's historical landmarks and trying local cuisine.",
+      "December": "Cool and pleasant, a great time to visit Chennai's famous beaches and enjoy outdoor activities."
+    },
+    "entry_fees": {
+      "Kapaleeswarar Temple": "Free, but camera fees apply (Rs. 50 per person)",
+      "Fort St. George": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Government Museum": "Rs. 15 per person (Indians), free for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Chennai": "Rs. 500-700 per bed in dorm",
+      "Red Lollipop Hostel": "Rs. 600-900 per bed in dorm",
+      "Budget Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Saravana Bhavan (Pure Veg)": "Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Murugan Idli Shop (South Indian)": "Breakfast (Rs. 100-150), Lunch (Rs. 150-200)",
+      "Kumar Mess (Non-Veg)": "Lunch (Rs. 200-300), Dinner (Rs. 250-350)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus (MTC)": "Rs. 10-30 per ticket",
+      "Metro Rail": "Rs. 10-60 per ticket depending on the distance"
+    },
+    "must_visit": [
+      "Marina Beach",
+      "Kapaleeswarar Temple",
+      "Fort St. George",
+      "Government Museum"
+    ]
+  },
+  "Pune": {
+    "state": "Maharashtra",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting Sinhagad Fort or trekking. Average temperature: 12-25\u00b0C.",
+      "February": "Mild climate, perfect for exploring city attractions like Shaniwar Wada and Dagadusheth Halwai Ganapati Temple. Average temperature: 15-28\u00b0C.",
+      "March": "Temperature starts rising, but still a good time to visit Pune. Average temperature: 18-32\u00b0C.",
+      "April": "Hot and dry, avoid outdoor activities during peak sun hours. Average temperature: 20-35\u00b0C.",
+      "May": "Very hot, prefer indoor activities or visit early in the morning and late in the evening. Average temperature: 22-38\u00b0C.",
+      "June": "Start of monsoon, expect occasional rain showers. Average temperature: 20-30\u00b0C.",
+      "July": "Monsoon season, heavy rainfall expected. Prefer indoor activities or visit waterfalls and lakes. Average temperature: 18-25\u00b0C.",
+      "August": "Continuous rainfall, but a good time to visit nearby hill stations like Lonavala. Average temperature: 18-24\u00b0C.",
+      "September": "Rainfall reduces, pleasant weather returns. Average temperature: 18-28\u00b0C.",
+      "October": "Festive season, pleasant weather, and a great time to explore Pune. Average temperature: 15-28\u00b0C.",
+      "November": "Cool and pleasant, ideal for outdoor activities. Average temperature: 12-25\u00b0C.",
+      "December": "Winter season, mild climate, and a great time to visit Pune. Average temperature: 10-22\u00b0C."
+    },
+    "entry_fees": {
+      "Sinhagad Fort": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Shaniwar Wada": "Rs. 25 per person (Indians), Rs. 10 for students with ID",
+      "Dagadusheth Halwai Ganapati Temple": "Free"
+    },
+    "budget_stays": {
+      "Zostel Pune": "Rs. 500-700 per bed in dorm",
+      "Hotel Shree": "Rs. 800-1200 per room",
+      "Suyash Guest House": "Rs. 600-1000 per room"
+    },
+    "food": {
+      "Vaishali Restaurant (near Fergusson College)": "Breakfast (Rs. 100-150), Lunch/Dinner (Rs. 150-250)",
+      "Good Luck Cafe (near Deccan Gymkhana)": "Breakfast (Rs. 100-150), Lunch/Dinner (Rs. 150-250)",
+      "Wadeshwar Dhaba (near Kothrud)": "Lunch/Dinner (Rs. 150-200)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus (PMPML)": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Sinhagad Fort",
+      "Shaniwar Wada",
+      "Dagadusheth Halwai Ganapati Temple",
+      "Bund Garden",
+      "Osho International Meditation Resort"
+    ]
+  },
+  "Kochi": {
+    "state": "Kerala",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and dry weather, ideal for outdoor activities like visiting Fort Kochi and Cherai Beach.",
+      "February": "Pleasant weather, good for exploring the city and its historical landmarks.",
+      "March": "Temperature starts rising, but still a good time to visit before the summer heat sets in.",
+      "April": "Hot and humid, avoid outdoor activities during the peak sun hours.",
+      "May": "Summer vacation, expect large crowds and high temperatures.",
+      "June": "Monsoon season begins, heavy rainfall expected, outdoor activities may be limited.",
+      "July": "Heavy rainfall, some tourist attractions may be closed due to flooding.",
+      "August": "Continued monsoon season, but some festivals and events take place during this time.",
+      "September": "Rainfall starts to decrease, weather becomes more pleasant.",
+      "October": "Post-monsoon season, cool and dry weather, ideal for outdoor activities.",
+      "November": "Festive season, many events and festivals take place, pleasant weather.",
+      "December": "Cool and dry weather, peak tourist season, expect large crowds."
+    },
+    "entry_fees": {
+      "Fort Kochi": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Cherai Beach": "Free",
+      "Mattancherry Palace": "Rs. 20 per person (Indians), Rs. 10 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Kochi": "Rs. 500-700 per bed in dorm",
+      "Treebo Trend Greenwood Inn": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Saravana Bhavan (MG Road)": "Lunch (Rs. 150-200), Dinner (Rs. 200-250)",
+      "Kayees Rahmathulla Hotel (Mattancherry)": "Lunch (Rs. 100-150), Dinner (Rs. 150-200)",
+      "Fort Kochi Food Street": "Snacks and beverages (Rs. 50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Fort Kochi",
+      "Cherai Beach",
+      "Mattancherry Palace",
+      "St. Francis Church",
+      "Dutch Cemetery"
+    ]
+  },
+  "Alleppey": {
+    "state": "Kerala",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for houseboat cruises and outdoor activities.",
+      "February": "Mild temperatures, perfect for exploring the backwaters and beaches.",
+      "March": "Start of summer, temperatures rising, but still a good time to visit.",
+      "April": "Hot and humid, but the Thrissur Pooram festival is a major attraction.",
+      "May": "Peak summer, very hot and humid, not ideal for outdoor activities.",
+      "June": "Monsoon season starts, heavy rainfall, but lush green landscapes.",
+      "July": "Heavy rainfall, but the backwaters are full and the scenery is beautiful.",
+      "August": "Continued monsoon season, but the temperature cools down a bit.",
+      "September": "End of monsoon season, the weather starts to clear up.",
+      "October": "Pleasant weather, ideal for outdoor activities and exploring the city.",
+      "November": "Cool and pleasant weather, start of the tourist season.",
+      "December": "Mild temperatures, perfect for houseboat cruises and beach activities."
+    },
+    "entry_fees": {
+      "Krishnapuram Palace": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Alleppey Beach": "Free"
+    },
+    "budget_stays": {
+      "Zostel Alleppey": "Rs. 500-700 per bed in dorm",
+      "Cosy Home Stay": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Cafe Catamaran (near the beach)": "Breakfast (Rs.100-150), Lunch (Rs.150-200), Dinner (Rs.200-250)",
+      "Saravana Bhavan (South Indian cuisine)": "Lunch (Rs.150-200), Dinner (Rs.200-250)",
+      "Dhe Puttu (traditional Kerala cuisine)": "Lunch (Rs.100-150), Dinner (Rs.150-200)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Alleppey Beach",
+      "Krishnapuram Palace",
+      "Backwater Canals"
+    ]
+  },
+  "Munnar": {
+    "state": "Kerala",
+    "best_months": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for trekking and outdoor activities.",
+      "February": "Mild climate, perfect for visiting tea plantations and scenic spots.",
+      "March": "Temperature starts rising, but still a good time to visit before the summer heat.",
+      "April": "Summer begins, with temperatures soaring, but waterfalls are in full flow.",
+      "May": "Hot and humid, not the best time to visit, but you can enjoy the greenery.",
+      "June": "Monsoon season starts, heavy rainfall, and landslides are common, avoid trekking.",
+      "July": "Peak monsoon season, heavy rainfall, and high humidity, not ideal for outdoor activities.",
+      "August": "Continued monsoon season, but the scenery is lush and green, and it's a good time for Ayurvedic treatments.",
+      "September": "Weather starts to clear up, and it's a good time to visit before the peak tourist season.",
+      "October": "Pleasant weather, and the tea plantations are in full bloom, ideal for photography.",
+      "November": "Cool and pleasant weather, perfect for trekking, and outdoor activities.",
+      "December": "Mild climate, and a good time to visit, with Christmas and New Year celebrations."
+    },
+    "entry_fees": {
+      "Mattupetty Dam": "Rs. 20 per person (Indians), Rs. 10 for students with ID",
+      "Echo Point": "Free"
+    },
+    "budget_stays": {
+      "Zostel Munnar": "Rs. 500-700 per bed in dorm",
+      "Green View Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Saravana Bhavan (South Indian cuisine)": "Breakfast (Rs. 50-100), Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Rahamathulla Dhaba (North Indian cuisine)": "Lunch (Rs. 150-250), Dinner (Rs. 200-300)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Mattupetty Dam",
+      "Echo Point",
+      "Tea Plantations"
+    ]
+  },
+  "Ooty": {
+    "state": "Tamil Nadu",
+    "best_months": [
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool weather, ideal for outdoor activities like trekking and sightseeing. Average temperature ranges from 8-15\u00b0C.",
+      "February": "Pleasant weather, good for visiting botanical gardens and tea plantations. Average temperature ranges from 10-18\u00b0C.",
+      "March": "Mild climate, suitable for boating and horse riding. Average temperature ranges from 12-20\u00b0C.",
+      "April": "Summer starts, but the weather remains pleasant. Average temperature ranges from 15-22\u00b0C.",
+      "May": "Warm weather, ideal for visiting waterfalls and lakes. Average temperature ranges from 18-25\u00b0C.",
+      "June": "Monsoon season begins, heavy rainfall expected. Average temperature ranges from 15-20\u00b0C.",
+      "July": "Heavy rainfall, landslides, and roadblocks are common. Avoid outdoor activities.",
+      "August": "Continuous rainfall, not ideal for sightseeing. Average temperature ranges from 12-18\u00b0C.",
+      "September": "Rainfall decreases, weather becomes pleasant again. Average temperature ranges from 15-20\u00b0C.",
+      "October": "Cool and pleasant weather, ideal for trekking and outdoor activities. Average temperature ranges from 12-18\u00b0C.",
+      "November": "Winter starts, cool climate, suitable for sightseeing. Average temperature ranges from 10-15\u00b0C.",
+      "December": "Cold weather, ideal for visiting tea plantations and enjoying bonfires. Average temperature ranges from 8-12\u00b0C."
+    },
+    "entry_fees": {
+      "Ooty Lake": "Rs. 10 per person (Indians), Rs. 5 for students with ID",
+      "Doddabetta Peak": "Rs. 10 per person (Indians), free for students with ID",
+      "Botanical Gardens": "Rs. 30 per person (Indians), Rs. 15 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Ooty": "Rs. 600-800 per bed in dorm",
+      "Youth Hostel Ooty": "Rs. 400-600 per bed in dorm",
+      "Hotel Sapphire": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Taste of India (near Ooty Lake)": "Lunch (Rs. 150-200), Dinner (Rs. 200-250)",
+      "Shinkow's Chinese Restaurant (Charing Cross)": "Lunch (Rs. 100-150), Dinner (Rs. 150-200)",
+      "Savoy Hotel's Restaurant (near Botanical Gardens)": "Breakfast (Rs. 50-100), Lunch (Rs. 150-250), Dinner (Rs. 250-350)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 50-150 depending on distance",
+      "Local Bus": "Rs. 10-50 per ticket"
+    },
+    "must_visit": [
+      "Ooty Lake",
+      "Doddabetta Peak",
+      "Botanical Gardens",
+      "Wenlock Downs",
+      "Tea Plantations"
+    ]
+  },
+  "Kodaikanal": {
+    "state": "Tamil Nadu",
+    "best_months": [
+      "September",
+      "October",
+      "November",
+      "February",
+      "March",
+      "April"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for outdoor activities like trekking and boating.",
+      "February": "Mild climate, perfect for sightseeing and exploring the town.",
+      "March": "Temperature starts rising, but still a good time to visit before the summer heat sets in.",
+      "April": "Warm weather, but the summer festival and flower shows are worth attending.",
+      "May": "Hot and humid, not the best time to visit, but you can still enjoy the lake and water activities.",
+      "June": "Monsoon season begins, heavy rainfall and landslides are common, avoid traveling.",
+      "July": "Continuous rainfall, not ideal for outdoor activities, but you can enjoy the scenic views and indoor games.",
+      "August": "Rainfall continues, but the weather starts to clear up, and the town becomes less crowded.",
+      "September": "Pleasant weather returns, and the town starts to fill up with tourists again.",
+      "October": "Cool and pleasant, perfect time for trekking, boating, and sightseeing.",
+      "November": "Mild climate, ideal for outdoor activities and exploring the town.",
+      "December": "Cool and pleasant, a great time to visit before the winter holidays."
+    },
+    "entry_fees": {
+      "Kodaikanal Lake": "Rs. 10 per person (Indians), Rs. 5 for students with ID",
+      "Coaker's Walk": "Rs. 10 per person (Indians), Free for students with ID",
+      "Pillar Rocks": "Rs. 10 per person (Indians), Rs. 5 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Kodaikanal": "Rs. 500-700 per bed in dorm",
+      "Hotel JC Residency": "Rs. 800-1200 per room",
+      "Kodaikanal International Hotel": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Tibetan Brothers (near Kodaikanal Lake)": "Lunch/Dinner (Rs.150-250)",
+      "Cloud Street (near Bus Stand)": "Breakfast (Rs.100-150), Lunch/Dinner (Rs.150-250)",
+      "Astoria Veg Restaurant (near Coaker's Walk)": "Lunch/Dinner (Rs.100-200)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Kodaikanal Lake",
+      "Coaker's Walk",
+      "Pillar Rocks",
+      "Bryant Park",
+      "Silver Cascade"
+    ]
+  },
+  "Pondicherry": {
+    "state": "Tamil Nadu",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather with temperatures ranging from 20-25\u00b0C, ideal for outdoor activities like visiting beaches and historical landmarks.",
+      "February": "Similar to January, with temperatures ranging from 22-26\u00b0C, making it perfect for exploring the city on foot or by bike.",
+      "March": "Temperature starts to rise, ranging from 25-30\u00b0C, but still a good time to visit before the peak summer months.",
+      "April": "Hot and humid, with temperatures often reaching 35\u00b0C, making outdoor activities challenging.",
+      "May": "One of the hottest months, with temperatures often above 35\u00b0C, and high humidity, making it best to stay indoors.",
+      "June": "Start of the monsoon season, with frequent rain showers, but temperatures slightly lower than the peak summer months.",
+      "July": "Monsoon season continues, with frequent rain and high humidity, but the city's greenery is at its best.",
+      "August": "Similar to July, with frequent rain showers and high humidity, but the temperatures start to decrease slightly.",
+      "September": "End of the monsoon season, with temperatures ranging from 25-30\u00b0C, making it a good time to visit before the peak tourist season.",
+      "October": "Pleasant weather returns, with temperatures ranging from 20-25\u00b0C, making it an ideal time to visit.",
+      "November": "Similar to October, with pleasant weather and temperatures ranging from 20-25\u00b0C, perfect for outdoor activities.",
+      "December": "Cool and pleasant, with temperatures ranging from 18-22\u00b0C, making it one of the best months to visit."
+    },
+    "entry_fees": {
+      "Auroville": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Pondicherry Museum": "Rs. 10 per person (Indians), Rs. 5 for students with ID",
+      "Eglise de Notre Dame des Anges": "Free"
+    },
+    "budget_stays": {
+      "Zostel Pondicherry": "Rs. 500-700 per bed in dorm",
+      "Sakthi Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Sri Kamatchi Amman Mess (South Indian cuisine)": "Lunch (Rs. 100-150), Dinner (Rs. 150-200)",
+      "Cafe Xtasi (Italian and Continental cuisine)": "Lunch (Rs. 200-250), Dinner (Rs. 250-300)",
+      "Dosa Corner (South Indian street food)": "Breakfast (Rs. 50-100), Snacks (Rs. 20-50)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Auroville",
+      "Pondicherry Beach",
+      "Eglise de Notre Dame des Anges",
+      "Pondicherry Museum"
+    ]
+  },
+  "Mysore": {
+    "state": "Karnataka",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting Mysore Palace and Chamundi Hills.",
+      "February": "Cool and dry, perfect for exploring the city on foot or by cycle.",
+      "March": "Temperature starts rising, but still a good time to visit the Brindavan Gardens.",
+      "April": "Hot and dry, avoid outdoor activities during the peak sun hours.",
+      "May": "Very hot, try to stay indoors during the day and explore the city in the evenings.",
+      "June": "Start of monsoon, some attractions might be closed due to rain.",
+      "July": "Heavy rainfall, but the city looks lush green and is less crowded.",
+      "August": "Continued monsoon, some outdoor activities might be restricted.",
+      "September": "Rain starts to reduce, and the weather becomes pleasant again.",
+      "October": "Festive season starts, and the city is decorated for Dussehra celebrations.",
+      "November": "Comfortable weather, ideal for visiting the Mysore Zoo and Karanji Lake.",
+      "December": "Cool and pleasant, a great time to explore the city's historic landmarks."
+    },
+    "entry_fees": {
+      "Mysore Palace": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Chamundi Hills": "Free, but Rs. 100 for vehicle parking",
+      "Brindavan Gardens": "Rs. 20 per person"
+    },
+    "budget_stays": {
+      "Zostel Mysore": "Rs. 500-700 per bed in dorm",
+      "Sujatha Residency": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "MyLunch (Saraswathipuram)": "Lunch (Rs. 100-150)",
+      "Mahesh Prasad (Near Railway Station)": "Breakfast (Rs. 50-100), Lunch/Dinner (Rs. 150-250)",
+      "Annapoorna (Gandhi Square)": "South Indian meals (Rs. 80-150)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Mysore Palace",
+      "Chamundi Hills",
+      "Brindavan Gardens",
+      "Mysore Zoo",
+      "Karanji Lake"
+    ]
+  },
+  "Hampi": {
+    "state": "Karnataka",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like exploring ruins and temples.",
+      "February": "Mild climate, perfect for trekking and rock climbing.",
+      "March": "Temperature starts rising, but still a good time to visit before the peak summer.",
+      "April": "Hot weather sets in, making outdoor activities challenging.",
+      "May": "Peak summer, avoid visiting during this time due to extreme heat.",
+      "June": "Summer continues, with occasional rain showers.",
+      "July": "Monsoon season begins, with frequent rain showers and potential disruptions to outdoor activities.",
+      "August": "Rainfall continues, but the scenery is lush and green.",
+      "September": "Weather starts to improve, with reduced rainfall and pleasant temperatures.",
+      "October": "Ideal time to visit, with comfortable weather and festive atmosphere.",
+      "November": "Pleasant climate, perfect for outdoor activities and exploration.",
+      "December": "Mild winter, great time to visit Hampi and enjoy the scenery."
+    },
+    "entry_fees": {
+      "Virupaksha Temple": "Rs. 2 per person (Indians), free for students with ID",
+      "Vijaya Vittala Temple": "Rs. 40 per person (Indians), Rs. 20 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Hampi": "Rs. 500-700 per bed in dorm",
+      "Gopi Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Mango Tree (near Virupaksha Temple)": "Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Laughing Buddha (near Hampi Bazaar)": "Breakfast (Rs. 100-150), Snacks (Rs. 50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Virupaksha Temple",
+      "Vijaya Vittala Temple",
+      "Hampi Bazaar"
+    ]
+  },
+  "Gokarna": {
+    "state": "Karnataka",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant, ideal for beach activities and trekking.",
+      "February": "Mild and sunny, perfect for water sports and outdoor activities.",
+      "March": "Warm and humid, but still a good time to visit the beaches and temples.",
+      "April": "Hot and humid, with temperatures rising, not ideal for outdoor activities.",
+      "May": "Very hot, with temperatures soaring, best to avoid outdoor activities during the day.",
+      "June": "Start of monsoon season, heavy rainfall, and rough seas, not ideal for beach activities.",
+      "July": "Monsoon season, heavy rainfall, and strong winds, best to avoid outdoor activities.",
+      "August": "Monsoon season, with frequent rainfall, and rough seas, not ideal for water sports.",
+      "September": "End of monsoon season, with decreasing rainfall, and cooler temperatures.",
+      "October": "Pleasant and cool, with clear skies, ideal for outdoor activities and beach trips.",
+      "November": "Mild and sunny, with comfortable temperatures, perfect for trekking and water sports.",
+      "December": "Cool and pleasant, with clear skies, ideal for beach activities and outdoor activities."
+    },
+    "entry_fees": {
+      "Mahabaleshwar Temple": "Rs. 10 per person (Indians), Free for students with ID",
+      "Om Beach": "Free"
+    },
+    "budget_stays": {
+      "Zostel Gokarna": "Rs. 500-700 per bed in dorm",
+      "SwaSwara Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Namaste Cafe (beachside eatery)": "Breakfast (Rs.100-150), Lunch (Rs.150-250), Dinner (Rs.200-300)",
+      "Pai Hotel (local dhaba)": "Breakfast (Rs.50-100), Lunch (Rs.100-150), Dinner (Rs.150-200)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Om Beach",
+      "Kudle Beach",
+      "Mahabaleshwar Temple"
+    ]
+  },
+  "Shimla": {
+    "state": "Himachal Pradesh",
+    "best_months": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "January",
+      "February",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Very cold, avoid outdoor activities, prefer indoor sightseeing and shopping",
+      "February": "Cold, snowfall expected, check for road closures before traveling",
+      "March": "Mildly cold, good time for trekking and outdoor activities",
+      "April": "Pleasant weather, ideal for sightseeing and outdoor activities",
+      "May": "Warm and sunny, peak tourist season, expect crowds",
+      "June": "Hot and humid, monsoon season starts, landslides possible",
+      "July": "Heavy rainfall, landslides and road closures possible, avoid traveling",
+      "August": "Rainfall continues, cold and foggy, not ideal for sightseeing",
+      "September": "Mildly cold, monsoon season ends, good time for trekking and outdoor activities",
+      "October": "Pleasant weather, festive season starts, expect crowds",
+      "November": "Cold, snowfall expected, check for road closures before traveling",
+      "December": "Very cold, avoid outdoor activities, prefer indoor sightseeing and shopping"
+    },
+    "entry_fees": {
+      "The Ridge": "Free",
+      "Christ Church": "Free, but donations welcome",
+      "Jakhoo Temple": "Rs. 50 per person (Indians), Rs. 20 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Shimla": "Rs. 500-700 per bed in dorm",
+      "Hotel Combermere": "Rs. 800-1200 per room",
+      "Aloha Homes": "Rs. 600-1000 per room"
+    },
+    "food": {
+      "Ashiana and Goofa Restaurant (near The Mall Road)": "Lunch/Dinner (Rs.150-250)",
+      "Himachali Rasoi (near The Ridge)": "Local Himachali cuisine, Lunch/Dinner (Rs.100-200)",
+      "Indian Coffee House (near The Mall Road)": "Breakfast/Snacks (Rs.50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Taxis": "Rs. 150-300 depending on distance"
+    },
+    "must_visit": [
+      "The Ridge",
+      "Mall Road",
+      "Christ Church",
+      "Jakhoo Temple",
+      "Kufri"
+    ]
+  },
+  "Dharamshala": {
+    "state": "Himachal Pradesh",
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "January",
+      "February",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Very cold, avoid trekking and outdoor activities, prefer indoor sightseeing",
+      "February": "Cold, but good for snow sports, visit the ice skating rink",
+      "March": "Mild and pleasant, ideal for trekking and outdoor activities",
+      "April": "Warm and sunny, good for sightseeing and visiting monasteries",
+      "May": "Hot and sunny, prefer early morning and evening sightseeing",
+      "June": "Hot and humid, avoid outdoor activities during peak sun hours",
+      "July": "Monsoon season, heavy rainfall, landslides, and roadblocks possible",
+      "August": "Monsoon season, heavy rainfall, avoid trekking and outdoor activities",
+      "September": "Pleasant and mild, ideal for trekking and outdoor activities",
+      "October": "Cool and sunny, good for sightseeing and visiting monasteries",
+      "November": "Cool and pleasant, prefer layering for cold evenings",
+      "December": "Cold, but good for snow sports, visit the ice skating rink"
+    },
+    "entry_fees": {
+      "McLeod Ganj": "Free",
+      "Bhagsu Nag Temple": "Rs. 20 per person (Indians), Rs. 10 for students with ID",
+      "Dharamkot": "Free"
+    },
+    "budget_stays": {
+      "Zostel Dharamshala": "Rs. 500-700 per bed in dorm",
+      "Hotel Akash": "Rs. 800-1200 per room",
+      "Green Hotel": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Lung Ta Japanese Restaurant (McLeod Ganj)": "Lunch/Dinner (Rs. 200-300)",
+      "Tibet Kitchen (McLeod Ganj)": "Lunch/Dinner (Rs. 150-250)",
+      "Dharamkot Dhaba (Dharamkot)": "Breakfast/Lunch (Rs. 100-200)",
+      "McLeod Ganj Dhaba (McLeod Ganj)": "Lunch/Dinner (Rs. 150-250)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Taxis": "Rs. 150-300 depending on distance"
+    },
+    "must_visit": [
+      "McLeod Ganj",
+      "Bhagsu Nag Temple",
+      "Dharamkot",
+      "Tsuglagkhang Complex"
+    ]
+  },
+  "Leh": {
+    "state": "Jammu and Kashmir",
+    "best_months": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "avoid_months": [
+      "January",
+      "February",
+      "December"
+    ],
+    "seasonal_notes": {
+      "January": "Extremely cold weather, avoid outdoor activities, prefer indoor sightseeing and warm clothing",
+      "February": "Very cold, roads to nearby attractions might be closed due to snow, check before planning",
+      "March": "Weather starts to get warmer, but still chilly, good time for budget travelers as prices are low",
+      "April": "Pleasant weather, ideal for trekking and outdoor activities, start of tourist season",
+      "May": "Warm and sunny, perfect for sightseeing and adventure sports, peak tourist season begins",
+      "June": "Peak tourist season, warm and sunny, ideal for all outdoor activities",
+      "July": "Pleasant weather, ideal for trekking and sightseeing, monsoon season starts but Leh is in rain shadow area",
+      "August": "Pleasant weather, good for outdoor activities, but might experience occasional rain",
+      "September": "End of peak tourist season, still warm and sunny, good time for budget travelers",
+      "October": "Weather starts to get colder, good time for budget travelers, prices start to decrease",
+      "November": "Very cold, roads to nearby attractions might start to close due to snow, check before planning",
+      "December": "Extremely cold weather, avoid outdoor activities, prefer indoor sightseeing and warm clothing"
+    },
+    "entry_fees": {
+      "Hemis Monastery": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Shanti Stupa": "Free",
+      "Leh Palace": "Rs. 15 per person (Indians), Rs. 10 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Leh": "Rs. 500-700 per bed in dorm",
+      "Hotel Kanglhach": "Rs. 800-1200 per room",
+      "Ladakh Guest House": "Rs. 600-1000 per room"
+    },
+    "food": {
+      "Gesmo Restaurant (Tibetan cuisine)": "Lunch/Dinner (Rs. 150-250)",
+      "Lamayuru Restaurant (Indian and Chinese cuisine)": "Breakfast (Rs. 100-150), Lunch/Dinner (Rs. 200-300)",
+      "Amdo Cafe (Buddhist themed cafe)": "Snacks and beverages (Rs. 50-150)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Taxi": "Rs. 150-300 depending on distance"
+    },
+    "must_visit": [
+      "Pangong Lake",
+      "Nubra Valley",
+      "Hemis Monastery",
+      "Shanti Stupa",
+      "Leh Palace"
+    ]
+  },
+  "Srinagar": {
+    "state": "Jammu and Kashmir",
+    "best_months": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "January",
+      "February",
+      "December"
+    ],
+    "seasonal_notes": {
+      "January": "Very cold, avoid outdoor activities, prefer indoor sightseeing and warm clothing",
+      "February": "Cold, some snowfall expected, check for road closures before traveling",
+      "March": "Mildly cold, good time for trekking and outdoor activities",
+      "April": "Pleasant weather, ideal for sightseeing and outdoor activities",
+      "May": "Warm and sunny, perfect for boating and water sports",
+      "June": "Hot and humid, prefer early morning and evening sightseeing",
+      "July": "Warm and sunny, good time for trekking and outdoor activities",
+      "August": "Pleasant weather, ideal for sightseeing and outdoor activities",
+      "September": "Mildly warm, good time for boating and water sports",
+      "October": "Pleasant weather, ideal for sightseeing and outdoor activities",
+      "November": "Mildly cold, prefer warm clothing and indoor activities",
+      "December": "Very cold, avoid outdoor activities, prefer indoor sightseeing and warm clothing"
+    },
+    "entry_fees": {
+      "Shalimar Garden": "Rs. 10 per person (Indians), Rs. 5 for students with ID",
+      "Nishat Garden": "Rs. 10 per person (Indians), Rs. 5 for students with ID",
+      "Dal Lake": "Free"
+    },
+    "budget_stays": {
+      "Zostel Srinagar": "Rs. 600-900 per bed in dorm",
+      "Lal Chowk Guest House": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Krishna Dhaba (Rajbagh)": "Lunch (Rs. 150-200), Dinner (Rs. 200-250)",
+      "Mughal Darbar (Lal Chowk)": "Lunch (Rs. 100-150), Dinner (Rs. 150-200)",
+      "Alka Sweets (Karannagar)": "Snacks and desserts (Rs. 50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 50-150 depending on distance",
+      "Local Bus": "Rs. 10-50 per ticket"
+    },
+    "must_visit": [
+      "Dal Lake",
+      "Shalimar Garden",
+      "Nishat Garden",
+      "Hazratbal Shrine",
+      "Jamia Masjid"
+    ]
+  },
+  "Jaisalmer": {
+    "state": "Rajasthan",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool weather, ideal for outdoor activities like desert safari and fort visits. Average temperature ranges from 10-20\u00b0C.",
+      "February": "Pleasant weather, suitable for sightseeing and exploring the city. Average temperature ranges from 15-25\u00b0C.",
+      "March": "Temperature starts rising, but still comfortable for outdoor activities. Average temperature ranges from 20-30\u00b0C.",
+      "April": "Hot weather starts setting in, but still manageable for sightseeing. Average temperature ranges from 25-35\u00b0C.",
+      "May": "Very hot, temperatures often reach 40\u00b0C. Avoid outdoor activities during peak sun hours.",
+      "June": "Extremely hot, temperatures can reach up to 45\u00b0C. Not recommended for travel.",
+      "July": "Monsoon season starts, but Jaisalmer receives very little rainfall. Temperatures are still high, but humidity increases.",
+      "August": "Monsoon season continues, but rainfall is scarce. Temperatures start decreasing slightly.",
+      "September": "Weather starts cooling down, making it comfortable for outdoor activities again. Average temperature ranges from 20-30\u00b0C.",
+      "October": "Pleasant weather, ideal for sightseeing and outdoor activities. Average temperature ranges from 15-25\u00b0C.",
+      "November": "Cool weather, suitable for desert safari and fort visits. Average temperature ranges from 10-20\u00b0C.",
+      "December": "Cool weather, ideal for outdoor activities and sightseeing. Average temperature ranges from 10-20\u00b0C."
+    },
+    "entry_fees": {
+      "Jaisalmer Fort": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Patwon Ki Haveli": "Rs. 20 per person (Indians), free for students with ID",
+      "Gadisar Lake": "Free"
+    },
+    "budget_stays": {
+      "Zostel Jaisalmer": "Rs. 500-700 per bed in dorm",
+      "Hotel Priya": "Rs. 800-1200 per room",
+      "Desert Haveli Guest House": "Rs. 600-1000 per room"
+    },
+    "food": {
+      "Rajasthan Dhaba (near Jaisalmer Fort)": "Lunch (Rs. 150-200), Dinner (Rs. 200-250)",
+      "Rama Restaurant (near Patwon Ki Haveli)": "Breakfast (Rs. 100-150), Lunch (Rs. 150-200)",
+      "Kanchan Shree Ice Cream (near Gadisar Lake)": "Snacks and desserts (Rs. 50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Jaisalmer Fort",
+      "Patwon Ki Haveli",
+      "Gadisar Lake",
+      "Sam Sand Dunes",
+      "Desert National Park"
+    ]
+  },
+  "Jodhpur": {
+    "state": "Rajasthan",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting Mehrangarh Fort and exploring the city. Average temperature ranges from 10-24\u00b0C.",
+      "February": "Mild and sunny, perfect for sightseeing. Temperature ranges from 12-27\u00b0C.",
+      "March": "Gradually warming up, with temperatures between 18-32\u00b0C. Still a good time to visit before the summer heat sets in.",
+      "April": "Getting hotter, with temperatures often reaching 35-40\u00b0C. It's advisable to stay hydrated and plan indoor activities during the peak sun hours.",
+      "May": "Very hot, with temperatures often above 42\u00b0C. It's best to avoid outdoor activities during the day and opt for early morning or evening explorations.",
+      "June": "The start of the monsoon season, with temperatures still high but humidity increasing. It might not be the best time for outdoor activities due to the heat and potential rains.",
+      "July": "Monsoon season, with frequent rains and high humidity. While it can be a good time for those who enjoy the rains, outdoor activities might be limited.",
+      "August": "Continuation of the monsoon season, with temperatures slightly decreasing but still quite humid. It's a good time for indoor activities and visiting museums or historical sites.",
+      "September": "The monsoon starts to recede, with temperatures becoming more pleasant, ranging from 22-32\u00b0C. It's a good time to visit before the peak tourist season starts.",
+      "October": "Pleasant weather, with a range of 15-30\u00b0C, making it ideal for outdoor activities and sightseeing.",
+      "November": "Cool and sunny, with temperatures between 12-28\u00b0C, perfect for exploring the city and its landmarks.",
+      "December": "Mild winter, with temperatures ranging from 10-25\u00b0C, making it a great time to visit Jodhpur."
+    },
+    "entry_fees": {
+      "Mehrangarh Fort": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Jaswant Thada": "Rs. 30 per person (Indians), Rs. 15 for students with ID",
+      "Umaid Bhawan Palace": "Rs. 30 per person (Indians), Rs. 15 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Jodhpur": "Rs. 500-700 per bed in dorm",
+      "Hill View Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Shri Mishrilal Hotel (near the clock tower, serving traditional Rajasthani food)": "Lunch/Dinner (Rs.150-250)",
+      "On The Rocks (at the fort road, serving multi-cuisine food)": "Lunch/Dinner (Rs.200-350)",
+      "Janta Sweet Home (near the railway station, famous for its sweets and snacks)": "Snacks (Rs.50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Mehrangarh Fort",
+      "Jaswant Thada",
+      "Umaid Bhawan Palace"
+    ]
+  },
+  "Pushkar": {
+    "state": "Rajasthan",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool weather, ideal for outdoor activities like camel rides and visiting temples. Average temperature ranges from 10-20\u00b0C.",
+      "February": "Pleasant weather, perfect for exploring the city and its surroundings. Temperature ranges from 15-25\u00b0C.",
+      "March": "Starting to get warm, but still comfortable for sightseeing. Temperature ranges from 20-30\u00b0C.",
+      "April": "Getting hotter, but still manageable. Temperature ranges from 25-35\u00b0C.",
+      "May": "Very hot, temperatures often reach 40\u00b0C. Avoid outdoor activities during the day.",
+      "June": "Peak summer, temperatures can reach 45\u00b0C. Not ideal for visiting.",
+      "July": "Monsoon season starts, temperatures drop slightly, but humidity increases. Not the best time to visit.",
+      "August": "Monsoon season continues, roads can be flooded, and some attractions might be closed.",
+      "September": "Weather starts to improve, temperatures drop, and humidity decreases. A good time to visit.",
+      "October": "Pleasant weather, ideal for outdoor activities. Temperature ranges from 20-30\u00b0C.",
+      "November": "Cooler weather, perfect for sightseeing and exploring the city. Temperature ranges from 15-25\u00b0C.",
+      "December": "Cool weather, ideal for visiting temples and enjoying the city's atmosphere. Temperature ranges from 10-20\u00b0C."
+    },
+    "entry_fees": {
+      "Brahma Temple": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Pushkar Lake": "Free"
+    },
+    "budget_stays": {
+      "Zostel Pushkar": "Rs. 500-700 per bed in dorm",
+      "Hotel Pushkar Palace": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Lakshmi Mishtan Bhandar (near Pushkar Lake)": "Breakfast (Rs. 50-100), Lunch/Dinner (Rs. 150-250)",
+      "Rajasthan Cuisine (near Brahma Temple)": "Lunch/Dinner (Rs. 100-200)",
+      "Sarvaa (near Pushkar Bus Stand)": "Breakfast (Rs. 50-100), Lunch/Dinner (Rs. 150-250)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Brahma Temple",
+      "Pushkar Lake",
+      "Savitri Temple"
+    ]
+  },
+  "Ranthambore": {
+    "state": "Rajasthan",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "seasonal_notes": {
+      "January": "Cool weather, ideal for tiger spotting and outdoor activities. Average temperature ranges from 10-20\u00b0C.",
+      "February": "Pleasant weather, good for sightseeing and wildlife exploration. Average temperature ranges from 15-25\u00b0C.",
+      "March": "Temperature starts rising, but still a good time for outdoor activities. Average temperature ranges from 20-30\u00b0C.",
+      "April": "Hot weather starts, not ideal for outdoor activities during the day. Average temperature ranges from 25-35\u00b0C.",
+      "May": "Very hot, avoid outdoor activities during the day. Average temperature ranges from 30-40\u00b0C.",
+      "June": "Extremely hot, monsoon season starts. Average temperature ranges from 35-45\u00b0C.",
+      "July": "Monsoon season, some areas might be closed due to heavy rainfall. Average temperature ranges from 25-35\u00b0C.",
+      "August": "Monsoon season continues, some outdoor activities might be restricted. Average temperature ranges from 20-30\u00b0C.",
+      "September": "Weather starts to cool down, but still humid. Average temperature ranges from 20-30\u00b0C.",
+      "October": "Pleasant weather, ideal for outdoor activities and tiger spotting. Average temperature ranges from 15-25\u00b0C.",
+      "November": "Cool weather, good for sightseeing and wildlife exploration. Average temperature ranges from 10-20\u00b0C.",
+      "December": "Cool weather, ideal for outdoor activities and tiger spotting. Average temperature ranges from 10-20\u00b0C."
+    },
+    "entry_fees": {
+      "Ranthambore National Park": "Rs. 50 per person (Indians), Rs. 20 for students with ID, Rs. 500 per person (foreigners)",
+      "Ranthambore Fort": "Rs. 25 per person (Indians), Rs. 10 for students with ID, Rs. 200 per person (foreigners)"
+    },
+    "budget_stays": {
+      "Zostel Ranthambore": "Rs. 500-700 per bed in dorm",
+      "Hotel Green View": "Rs. 800-1200 per room",
+      "Jungle View Guest House": "Rs. 600-1000 per room"
+    },
+    "food": {
+      "Maharaja Dhaba (near the park entrance)": "Lunch (Rs.150-200), Dinner (Rs.200-250)",
+      "Ranthambore Dhaba (near the fort)": "Breakfast (Rs.50-100), Lunch (Rs.100-150), Dinner (Rs.150-200)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Cycle Rickshaw": "Rs. 20-50 depending on distance"
+    },
+    "must_visit": [
+      "Ranthambore National Park",
+      "Ranthambore Fort",
+      "Trinetra Ganesh Temple",
+      "Surwal Lake"
+    ]
+  },
+  "Nainital": {
+    "state": "Uttarakhand",
+    "best_months": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "July",
+      "August",
+      "January",
+      "February"
+    ],
+    "seasonal_notes": {
+      "January": "Very cold, avoid water activities and outdoor visits to high-altitude areas",
+      "February": "Cold, but good for budget travelers, fewer tourists, and lower prices",
+      "March": "Pleasant weather, ideal for trekking and outdoor activities",
+      "April": "Best time to visit, pleasant weather, and clear skies",
+      "May": "Peak tourist season, crowded, and higher prices",
+      "June": "Warm and sunny, good for boating and water activities",
+      "July": "Monsoon season, heavy rainfall, and landslides, avoid traveling",
+      "August": "Continuous rainfall, and high humidity, not ideal for outdoor activities",
+      "September": "Pleasant weather, and fewer tourists, good for budget travelers",
+      "October": "Best time for trekking, and outdoor activities, clear skies, and pleasant weather",
+      "November": "Cool and pleasant, good for sightseeing, and boating",
+      "December": "Cold, but good for budget travelers, fewer tourists, and lower prices"
+    },
+    "entry_fees": {
+      "Naini Lake": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Naina Devi Temple": "Free"
+    },
+    "budget_stays": {
+      "Zostel Nainital": "Rs. 500-700 per bed in dorm",
+      "Hotel Annapurna": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Machan Restaurant (near Naini Lake)": "Breakfast (Rs. 100-150), Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Sonam Fast Food (Tibetan Market)": "Snacks and momos (Rs. 50-100), Thukpa and noodles (Rs. 100-150)",
+      "Lakshmi Restaurant (Mall Road)": "South Indian and North Indian cuisine, Lunch (Rs. 150-250), Dinner (Rs. 200-300)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Naini Lake",
+      "Naina Devi Temple",
+      "Snow View Point",
+      "Tiffin Top",
+      "High Altitude Zoo"
+    ]
+  },
+  "Mussoorie": {
+    "state": "Uttarakhand",
+    "best_months": [
+      "April",
+      "May",
+      "June",
+      "September",
+      "October"
+    ],
+    "avoid_months": [
+      "January",
+      "February",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cold weather, avoid outdoor activities like trekking, prefer indoor activities like visiting museums and shopping",
+      "February": "Still cold, but slightly warmer than January, can visit famous landmarks like Kempty Falls and Gun Hill",
+      "March": "Mild weather, good time for trekking and outdoor activities, but can be crowded",
+      "April": "Pleasant weather, ideal for sightseeing and outdoor activities, popular among tourists",
+      "May": "Warm weather, peak tourist season, can be crowded, but good time for adventure activities like paragliding",
+      "June": "Hot weather, but still a good time for sightseeing, can be crowded, especially on weekends",
+      "July": "Monsoon season, heavy rainfall, avoid outdoor activities, can be risky for trekking and adventure sports",
+      "August": "Still monsoon season, but slightly less rainfall, can visit indoor attractions like libraries and cafes",
+      "September": "Pleasant weather, good time for sightseeing and outdoor activities, less crowded than peak season",
+      "October": "Mild weather, ideal for trekking and adventure activities, popular among students and backpackers",
+      "November": "Cool weather, good time for sightseeing, can be crowded on weekends and holidays",
+      "December": "Cold weather, avoid outdoor activities like trekking, prefer indoor activities like shopping and visiting cafes"
+    },
+    "entry_fees": {
+      "Kempty Falls": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Gun Hill": "Free, but Rs. 75 per person for cable car ride",
+      "Mussoorie Lake": "Rs. 20 per person (Indians), Rs. 10 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Mussoorie": "Rs. 500-700 per bed in dorm",
+      "Hotel Hamers": "Rs. 800-1200 per room",
+      "Hotel Padmini Nivas": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Kalsang Friends Corner (Tibetan food)": "Lunch/Dinner (Rs. 150-250)",
+      "Lakshmi Restaurant (Indian food)": "Breakfast (Rs. 100-150), Lunch/Dinner (Rs. 200-300)",
+      "Mohan's Cafe (snacks and beverages)": "Snacks (Rs. 50-100), Beverages (Rs. 20-50)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Taxis": "Rs. 150-300 depending on distance"
+    },
+    "must_visit": [
+      "Kempty Falls",
+      "Gun Hill",
+      "Mussoorie Lake",
+      "Camel's Back Road",
+      "Lal Tibba"
+    ]
+  },
+  "Haridwar": {
+    "state": "Uttarakhand",
+    "best_months": [
+      "September",
+      "October",
+      "November",
+      "February",
+      "March",
+      "April"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cold weather, ideal for visiting temples and taking dips in the Ganges. Avoid water activities due to low temperatures.",
+      "February": "Pleasant weather, ideal for outdoor activities like trekking and visiting nearby attractions.",
+      "March": "Mild climate, perfect for exploring the city and its surroundings.",
+      "April": "Warm weather, ideal for visiting temples and taking part in festivals like Ram Navami.",
+      "May": "Hot weather, avoid visiting during peak summer months.",
+      "June": "Very hot, avoid outdoor activities during the day.",
+      "July": "Monsoon season, be prepared for heavy rainfall and potential flooding.",
+      "August": "Rainy season, some attractions might be closed due to heavy rainfall.",
+      "September": "Pleasant weather, ideal for visiting temples and taking part in festivals like Navratri.",
+      "October": "Mild climate, perfect for exploring the city and its surroundings.",
+      "November": "Cool weather, ideal for outdoor activities like trekking and visiting nearby attractions.",
+      "December": "Cold weather, ideal for visiting temples and taking dips in the Ganges. Be prepared for low temperatures."
+    },
+    "entry_fees": {
+      "Har Ki Pauri": "Free",
+      "Mansa Devi Temple": "Rs. 50 per person (Indians), Rs. 20 for students with ID, Cable car: Rs. 100 per person",
+      "Chandi Devi Temple": "Rs. 50 per person (Indians), Rs. 20 for students with ID, Cable car: Rs. 100 per person"
+    },
+    "budget_stays": {
+      "Zostel Haridwar": "Rs. 500-700 per bed in dorm",
+      "Hotel Sachin International": "Rs. 800-1200 per room",
+      "Hotel Ganga Kinare": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Mohanji Puri Wale (near Har Ki Pauri)": "Breakfast (Rs. 50-100), Lunch/Dinner (Rs. 150-250)",
+      "Hoshiyar Puri (near Railway Road)": "Breakfast (Rs. 50-100), Lunch/Dinner (Rs. 150-250)",
+      "Dada Boudir Hotel (near Bhimgoda Barrage)": "Lunch/Dinner (Rs. 200-300)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Tongas": "Rs. 50-100 depending on distance"
+    },
+    "must_visit": [
+      "Har Ki Pauri",
+      "Mansa Devi Temple",
+      "Chandi Devi Temple",
+      "Bharat Mata Mandir",
+      "Shantikunj"
+    ]
+  },
+  "Dehradun": {
+    "state": "Uttarakhand",
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August",
+      "January",
+      "February",
+      "December"
+    ],
+    "seasonal_notes": {
+      "January": "Very cold, avoid outdoor activities, prefer indoor activities like visiting museums and shopping",
+      "February": "Cold, still a good time to visit famous landmarks and temples",
+      "March": "Pleasant weather, ideal for trekking and outdoor activities",
+      "April": "Mild and sunny, great time to visit nearby hill stations",
+      "May": "Hot and humid, prefer early morning and evening outings",
+      "June": "Monsoon season, heavy rainfall, avoid outdoor activities",
+      "July": "Heavy rainfall, landslides common, avoid traveling",
+      "August": "Rainfall continues, but less frequent, still avoid outdoor activities",
+      "September": "Pleasant weather returns, ideal for trekking and outdoor activities",
+      "October": "Mild and sunny, great time to visit nearby hill stations",
+      "November": "Cool and pleasant, ideal for visiting famous landmarks and temples",
+      "December": "Cold, but still a good time to visit, prefer indoor activities"
+    },
+    "entry_fees": {
+      "Robber's Cave": "Rs. 20 per person (Indians), Rs. 10 for students with ID",
+      "Malsi Deer Park": "Rs. 10 per person (Indians), Free for students with ID",
+      "Forest Research Institute": "Free"
+    },
+    "budget_stays": {
+      "Zostel Dehradun": "Rs. 500-700 per bed in dorm",
+      "Hotel Aketa": "Rs. 800-1200 per room",
+      "Hotel Doon Castle": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Kalsang Friends Corner (Tibetan food)": "Lunch/Dinner (Rs. 150-250)",
+      "Orchard Restaurant (Indian and Chinese cuisine)": "Lunch/Dinner (Rs. 200-350)",
+      "Maggi Point (street food)": "Snacks (Rs. 50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Tuk-Tuk": "Rs. 50-150 depending on distance"
+    },
+    "must_visit": [
+      "Robber's Cave",
+      "Malsi Deer Park",
+      "Forest Research Institute",
+      "Mindrolling Monastery",
+      "Tapkeshwar Temple"
+    ]
+  },
+  "Khajuraho": {
+    "state": "Madhya Pradesh",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for sightseeing and outdoor activities.",
+      "February": "Mild and sunny, perfect for visiting temples and monuments.",
+      "March": "Gradually warming up, but still comfortable for exploring the city.",
+      "April": "Hot and dry, avoid outdoor activities during peak sun hours.",
+      "May": "Very hot, avoid traveling to Khajuraho during this month if possible.",
+      "June": "Start of monsoon season, occasional rain showers and high humidity.",
+      "July": "Monsoon season, heavy rainfall and flooding in some areas.",
+      "August": "Continued monsoon season, wet and humid conditions.",
+      "September": "Transitioning to cooler weather, still some rain showers.",
+      "October": "Pleasant and cool, ideal for sightseeing and outdoor activities.",
+      "November": "Mild and sunny, perfect for visiting temples and monuments.",
+      "December": "Cool and pleasant, ideal for exploring the city and its surroundings."
+    },
+    "entry_fees": {
+      "Western Group of Temples": "Rs. 50 per person (Indians), Rs. 20 for students with ID, Rs. 500 for foreigners",
+      "Eastern Group of Temples": "Free",
+      "Southern Group of Temples": "Free"
+    },
+    "budget_stays": {
+      "Zostel Khajuraho": "Rs. 500-700 per bed in dorm",
+      "Hotel Greenwood": "Rs. 800-1200 per room",
+      "Hotel Raj Palace": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Raja Cafe (near Western Group of Temples)": "Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Madhya Pradesh Tourism Hotel Restaurant (near Bus Stand)": "Breakfast (Rs. 100-150), Lunch (Rs. 150-250)",
+      "Rang Mahal Restaurant (near Eastern Group of Temples)": "Dinner (Rs. 200-350)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Cycle Rickshaw": "Rs. 20-50 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Western Group of Temples",
+      "Eastern Group of Temples",
+      "Southern Group of Temples",
+      "Khajuraho Dance Festival (if scheduled)"
+    ]
+  },
+  "Madurai": {
+    "state": "Tamil Nadu",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting temples and historical sites.",
+      "February": "Comfortable temperature, suitable for exploring the city on foot or by cycle.",
+      "March": "Temperature starts rising, but still a good time to visit before the summer heat sets in.",
+      "April": "Hot and humid, avoid outdoor activities during peak sun hours.",
+      "May": "Summer is at its peak, try to stay indoors during the day and explore the city in the evenings.",
+      "June": "Rainy season begins, but the heat is still intense, be prepared for sudden showers.",
+      "July": "Monsoon season, some tourist attractions might be closed due to heavy rains.",
+      "August": "Continued rainy season, but the weather can be pleasant, ideal for indoor activities.",
+      "September": "Rain starts to subside, the weather becomes more pleasant, a good time to visit.",
+      "October": "Festive season begins, the city is decorated and lively, a great time to experience the culture.",
+      "November": "Comfortable weather, ideal for outdoor activities and sightseeing.",
+      "December": "Pleasant winter season, perfect for exploring the city and its surroundings."
+    },
+    "entry_fees": {
+      "Meenakshi Amman Temple": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Thirumalai Nayak Palace": "Rs. 10 per person (Indians), Rs. 5 for students with ID",
+      "Gandhi Memorial Museum": "Free"
+    },
+    "budget_stays": {
+      "Zostel Madurai": "Rs. 500-700 per bed in dorm",
+      "Sree Devi Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Murugan Idli Shop (Idlis and Dosas)": "Breakfast (Rs. 50-100)",
+      "Konar Kadai (South Indian Thali)": "Lunch (Rs. 150-200)",
+      "The Madurai Kitchen (North Indian and Chinese)": "Dinner (Rs. 200-300)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Meenakshi Amman Temple",
+      "Thirumalai Nayak Palace",
+      "Vandiyur Mariamman Teppakulam"
+    ]
+  },
+  "Rameshwaram": {
+    "state": "Tamil Nadu",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for visiting temples and beaches. Avoid water activities during high tide.",
+      "February": "Mild climate, suitable for outdoor activities like island hopping and temple visits.",
+      "March": "Temperature starts rising, but still a good time to visit before the summer heat sets in.",
+      "April": "Hot and humid, avoid visiting during peak summer. Stay hydrated and take breaks.",
+      "May": "Very hot, not recommended for outdoor activities during the day. Visit temples and museums instead.",
+      "June": "Monsoon season begins, heavy rainfall expected. Avoid water activities and outdoor exploration.",
+      "July": "Heavy rainfall, flooding in some areas. Check weather forecasts before planning outdoor activities.",
+      "August": "Continued monsoon season, some tourist attractions may be closed. Check ahead of time.",
+      "September": "Rainfall starts to decrease, weather becomes more pleasant. Good time to visit temples and beaches.",
+      "October": "Pleasant weather, ideal for visiting temples, beaches, and outdoor activities.",
+      "November": "Mild climate, suitable for island hopping, temple visits, and water activities.",
+      "December": "Cool and pleasant, perfect time to visit Rameshwaram. Avoid visiting during peak holiday season."
+    },
+    "entry_fees": {
+      "Ramanathaswamy Temple": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Dhanushkodi Beach": "Free",
+      "Agni Theertham": "Free"
+    },
+    "budget_stays": {
+      "Zostel Rameshwaram": "Rs. 500-700 per bed in dorm",
+      "Sri Ram Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Guru Dhaba (near Ramanathaswamy Temple)": "Lunch (Rs. 150-200), Dinner (Rs. 200-250)",
+      "New Saravana Bhavan (near Bus Stand)": "Breakfast (Rs. 50-100), Snacks (Rs. 20-50)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Ramanathaswamy Temple",
+      "Dhanushkodi Beach",
+      "Agni Theertham",
+      "Gandhamadhana Parvatham"
+    ]
+  },
+  "Kanyakumari": {
+    "state": "Tamil Nadu",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for outdoor activities like visiting the Vivekananda Rock Memorial and the Kanyakumari Beach.",
+      "February": "Mild temperatures, perfect for sightseeing and exploring the city.",
+      "March": "Temperature starts rising, but still a good time to visit the city before the summer heat sets in.",
+      "April": "Hot and humid weather, avoid outdoor activities during the peak sun hours.",
+      "May": "Summer is at its peak, try to stay indoors during the day and explore the city in the evenings.",
+      "June": "Monsoon season starts, heavy rainfall and strong winds, avoid visiting the coastal areas.",
+      "July": "Continuous rainfall, flooding in some areas, not an ideal time to visit.",
+      "August": "Rainfall continues, but the weather starts to clear up towards the end of the month.",
+      "September": "Weather starts to improve, mild temperatures and less rainfall, a good time to visit.",
+      "October": "Pleasant weather, ideal for outdoor activities and sightseeing.",
+      "November": "Cool and pleasant weather, perfect for visiting the city's landmarks and beaches.",
+      "December": "Mild winter, a great time to visit the city and enjoy the outdoor activities."
+    },
+    "entry_fees": {
+      "Vivekananda Rock Memorial": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Kanyakumari Beach": "Free",
+      "Thiruvalluvar Statue": "Rs. 20 per person"
+    },
+    "budget_stays": {
+      "Zostel Kanyakumari": "Rs. 500-700 per bed in dorm",
+      "Hotel Maadhini": "Rs. 800-1200 per room",
+      "Sri Venkateswara Guest House": "Rs. 600-1000 per room"
+    },
+    "food": {
+      "Saravana Bhavan (South Indian cuisine)": "Breakfast (Rs. 50-100), Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Annapoorna (South Indian cuisine)": "Breakfast (Rs. 50-100), Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Kumar Mess (Local cuisine)": "Lunch (Rs. 100-200), Dinner (Rs. 150-250)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Vivekananda Rock Memorial",
+      "Kanyakumari Beach",
+      "Thiruvalluvar Statue",
+      "Sunrise and Sunset points"
+    ]
+  },
+  "Mahabalipuram": {
+    "state": "Tamil Nadu",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting the Shore Temple and beach walks.",
+      "February": "Mild climate, suitable for exploring the city's monuments and sculptures.",
+      "March": "Temperature starts rising, but still a good time to visit the beaches and temples.",
+      "April": "Hot and humid, avoid outdoor activities during peak sun hours.",
+      "May": "Very hot, prefer indoor activities or visit the city's museums and galleries.",
+      "June": "Start of monsoon, some outdoor activities might be restricted.",
+      "July": "Monsoon season, some tourist spots might be closed due to heavy rains.",
+      "August": "Continued monsoon, but the city's greenery is at its best.",
+      "September": "Weather starts improving, a good time to visit the city's beaches and temples.",
+      "October": "Pleasant weather, ideal for outdoor activities and festivals like Navratri.",
+      "November": "Mild climate, suitable for exploring the city's monuments and sculptures.",
+      "December": "Cool and pleasant, a great time to visit the city's beaches and enjoy water sports."
+    },
+    "entry_fees": {
+      "Shore Temple": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Five Rathas": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Arjuna's Penance": "Free"
+    },
+    "budget_stays": {
+      "Zostel Mahabalipuram": "Rs. 500-700 per bed in dorm",
+      "Sri Hari Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Mamallapuram Dhaba (near Shore Temple)": "Lunch (Rs.150-200), Dinner (Rs.200-250)",
+      "Golden Palate (near Five Rathas)": "Breakfast (Rs.100-150), Snacks (Rs.50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Shore Temple",
+      "Five Rathas",
+      "Arjuna's Penance",
+      "Krishna's Butter Ball"
+    ]
+  },
+  "Kovalam": {
+    "state": "Kerala",
+    "best_months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for water sports and beach activities.",
+      "February": "Mild temperatures, perfect for sightseeing and outdoor activities.",
+      "March": "Start of summer, temperatures rising, but still a good time to visit.",
+      "April": "Hot and humid, but less crowded, making it a good time for budget travelers.",
+      "May": "Peak summer, very hot and humid, not recommended for outdoor activities.",
+      "June": "Monsoon season starts, heavy rainfall, and strong winds, avoid water activities.",
+      "July": "Heavy rainfall, and strong winds, not ideal for sightseeing or outdoor activities.",
+      "August": "Continued monsoon season, but a good time for Ayurvedic treatments and relaxation.",
+      "September": "End of monsoon season, weather starts to clear up, and temperatures drop.",
+      "October": "Pleasant weather, ideal for sightseeing, and outdoor activities, a good time to visit.",
+      "November": "Cool and pleasant weather, ideal for water sports, and beach activities.",
+      "December": "Mild temperatures, perfect for sightseeing, and outdoor activities, peak tourist season."
+    },
+    "entry_fees": {
+      "Lighthouse Beach": "Free",
+      "Kovalam Beach": "Free",
+      "Hawah Beach": "Free",
+      "Thiruvallam Parasurama Temple": "Rs. 20 per person (Indians), Rs. 10 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Kovalam": "Rs. 500-700 per bed in dorm",
+      "Green Valley Holiday Home": "Rs. 800-1200 per room",
+      "Sagara Beach Resort": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "Suprabatham Restaurant (South Indian cuisine)": "Breakfast (Rs. 50-100), Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "The Seafood Restaurant (Seafood)": "Lunch (Rs. 200-350), Dinner (Rs. 300-450)",
+      "Dakshin Restaurant (South Indian cuisine)": "Breakfast (Rs. 50-100), Lunch (Rs. 150-250), Dinner (Rs. 200-300)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Taxi": "Rs. 150-300 depending on distance"
+    },
+    "must_visit": [
+      "Lighthouse Beach",
+      "Kovalam Beach",
+      "Hawah Beach",
+      "Thiruvallam Parasurama Temple"
+    ]
+  },
+  "Wayanad": {
+    "state": "Kerala",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for trekking and outdoor activities",
+      "February": "Mild climate, good for visiting waterfalls and wildlife sanctuaries",
+      "March": "Temperature starts rising, but still a good time to visit",
+      "April": "Hot and humid, avoid visiting during peak summer",
+      "May": "Summer vacation, expect crowds and high prices",
+      "June": "Monsoon season starts, heavy rainfall and landslides possible",
+      "July": "Heavy rainfall, some tourist attractions may be closed",
+      "August": "Continued monsoon season, but scenic landscapes and waterfalls are at their best",
+      "September": "Weather starts to clear up, a good time to visit before the peak season",
+      "October": "Pleasant weather, festive season starts, and tourist attractions are open",
+      "November": "Cool and pleasant weather, ideal for trekking and outdoor activities",
+      "December": "Mild climate, good for visiting waterfalls and wildlife sanctuaries"
+    },
+    "entry_fees": {
+      "Wayanad Wildlife Sanctuary": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Edakkal Caves": "Rs. 20 per person (Indians), free for children below 5 years"
+    },
+    "budget_stays": {
+      "Zostel Wayanad": "Rs. 500-700 per bed in dorm",
+      "Green Gates Hotel": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Sagar Restaurant (Kalpetta)": "Lunch (Rs. 150-200), Dinner (Rs. 200-250)",
+      "The Coffee Grove Restaurant & Resorts (Vythiri)": "Breakfast (Rs. 100-150), Snacks (Rs. 50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Wayanad Wildlife Sanctuary",
+      "Edakkal Caves",
+      "Soochipara Waterfalls"
+    ]
+  },
+  "Coorg": {
+    "state": "Karnataka",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for trekking and outdoor activities.",
+      "February": "Mild climate, perfect for visiting coffee plantations and enjoying the scenic beauty.",
+      "March": "Temperature starts rising, but still a good time to visit waterfalls and enjoy nature.",
+      "April": "Summer sets in, hot and humid, but a good time to visit temples and indoor attractions.",
+      "May": "Very hot, not recommended for outdoor activities, but can visit indoor attractions like museums.",
+      "June": "Monsoon starts, heavy rainfall, not ideal for trekking or outdoor activities.",
+      "July": "Continuous rainfall, but lush green landscapes, good for nature lovers and photography.",
+      "August": "Rainfall continues, but starts to reduce, can visit waterfalls and enjoy the scenic beauty.",
+      "September": "Weather starts to clear up, pleasant and cool, ideal for outdoor activities.",
+      "October": "Pleasant weather, festive season, ideal for visiting temples and enjoying the scenic beauty.",
+      "November": "Cool and pleasant weather, ideal for trekking, visiting coffee plantations, and outdoor activities.",
+      "December": "Cool and pleasant weather, perfect for visiting waterfalls, and enjoying the scenic beauty."
+    },
+    "entry_fees": {
+      "Abbey Falls": "Rs. 10 per person (Indians), Rs. 5 for students with ID",
+      "Dubare Elephant Camp": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Talacauvery": "Free"
+    },
+    "budget_stays": {
+      "Zostel Coorg": "Rs. 500-700 per bed in dorm",
+      "Coorg Guest House": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "The Coorg Food Factory (Madikeri)": "Lunch (Rs. 150-200), Dinner (Rs. 200-250)",
+      "Raintree Restaurant (Madikeri)": "Breakfast (Rs. 100-150), Lunch (Rs. 150-200)",
+      "Athithi Restaurant (Virajpet)": "Lunch (Rs. 120-180), Dinner (Rs. 180-220)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Abbey Falls",
+      "Dubare Elephant Camp",
+      "Talacauvery",
+      "Madikeri Fort",
+      "Raja's Seat"
+    ]
+  },
+  "Chikmagalur": {
+    "state": "Karnataka",
+    "best_months": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for trekking and outdoor activities.",
+      "February": "Mild winter, perfect for sightseeing and exploring the city.",
+      "March": "Temperature starts rising, can be hot during the day, but evenings are pleasant.",
+      "April": "Summer starts, hot and humid, not ideal for outdoor activities.",
+      "May": "Very hot, avoid traveling to Chikmagalur during this month.",
+      "June": "Monsoon starts, heavy rainfall, but lush green landscapes, ideal for nature lovers.",
+      "July": "Heavy rainfall, some tourist attractions might be closed, but scenic views are at their best.",
+      "August": "Continuous rainfall, but the weather is cool and pleasant, ideal for relaxation.",
+      "September": "Rainfall reduces, weather becomes pleasant, ideal for trekking and outdoor activities.",
+      "October": "Cool and pleasant weather, festive season, ideal for sightseeing and exploring the city.",
+      "November": "Mild winter, perfect for trekking, sightseeing, and outdoor activities.",
+      "December": "Cool and pleasant weather, ideal for trekking, sightseeing, and relaxation."
+    },
+    "entry_fees": {
+      "Mullayanagiri": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Hebbe Falls": "Free, but Rs. 50 for parking",
+      "Sharadamba Temple": "Free"
+    },
+    "budget_stays": {
+      "Zostel Chikmagalur": "Rs. 500-700 per bed in dorm",
+      "Treebo Trend Datta Inn": "Rs. 800-1200 per room",
+      "Siri Nature Roost": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "The Planters Court (near Bus Stand)": "Breakfast (Rs. 100-150), Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Maharaja Restaurant (near Railway Station)": "Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Siri Cafe (near Zostel)": "Snacks and beverages (Rs. 50-100), Breakfast (Rs. 100-150)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Mullayanagiri",
+      "Hebbe Falls",
+      "Sharadamba Temple",
+      "Kavikal Gandi Viewpoint",
+      "Yagachi Dam"
+    ]
+  },
+  "Gangtok": {
+    "state": "Sikkim",
+    "best_months": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October",
+      "November"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August",
+      "December"
+    ],
+    "seasonal_notes": {
+      "January": "Cold weather, ideal for snow lovers, avoid trekking and outdoor activities due to freezing temperatures",
+      "February": "Still cold, but slightly warmer, good time for visiting monasteries and indoor attractions",
+      "March": "Pleasant weather, ideal for trekking and outdoor activities, blooming flowers and greenery",
+      "April": "Mild and sunny, perfect for sightseeing and adventure sports",
+      "May": "Warm and sunny, ideal for trekking and outdoor activities, but can be crowded",
+      "June": "Monsoon season, heavy rainfall, landslides, and roadblocks, avoid traveling",
+      "July": "Continuous rainfall, high humidity, and cloudy weather, not ideal for sightseeing",
+      "August": "Still rainy, but slightly better, can be a good time for budget travelers and nature lovers",
+      "September": "Pleasant weather, clear skies, and mild temperatures, ideal for trekking and outdoor activities",
+      "October": "Cool and sunny, perfect for sightseeing and adventure sports, festive atmosphere",
+      "November": "Crisp and cold, ideal for snow lovers, good time for visiting monasteries and indoor attractions",
+      "December": "Very cold, freezing temperatures, avoid trekking and outdoor activities"
+    },
+    "entry_fees": {
+      "Rumtek Monastery": "Rs. 10 per person (Indians), Rs. 5 for students with ID",
+      "Namgyal Institute of Tibetology": "Rs. 10 per person (Indians), free for students with ID",
+      "Ganesh Tok": "Free"
+    },
+    "budget_stays": {
+      "Zostel Gangtok": "Rs. 600-900 per bed in dorm",
+      "Hotel Tashi Delek": "Rs. 1000-1500 per room"
+    },
+    "food": {
+      "9'INE Native Cuisine (Tibetan and Sikkimese food)": "Lunch/Dinner (Rs.150-250)",
+      "The Roll House (Momos and rolls)": "Snacks (Rs.50-100)",
+      "Gupta Restaurant (Indian and Chinese food)": "Lunch/Dinner (Rs.100-200)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 50-150 depending on distance",
+      "Local Bus": "Rs. 10-50 per ticket"
+    },
+    "must_visit": [
+      "Rumtek Monastery",
+      "Namgyal Institute of Tibetology",
+      "Ganesh Tok",
+      "M.G. Marg",
+      "Tsomgo Lake"
+    ]
+  },
+  "Shillong": {
+    "state": "Meghalaya",
+    "best_months": [
+      "October",
+      "November",
+      "March",
+      "April"
+    ],
+    "avoid_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and dry, ideal for trekking and outdoor activities. Average temperature ranges from 6-18\u00b0C.",
+      "February": "Pleasant weather, good for sightseeing and visiting local markets. Temperature ranges from 8-20\u00b0C.",
+      "March": "Mild and sunny, perfect for exploring the city and its surroundings. Temperature ranges from 12-24\u00b0C.",
+      "April": "Warm and sunny, great for visiting waterfalls and lakes. Temperature ranges from 15-28\u00b0C.",
+      "May": "Hot and humid, avoid outdoor activities during peak sun hours. Temperature ranges from 18-30\u00b0C.",
+      "June": "Monsoon season begins, heavy rainfall and landslides are common. Temperature ranges from 15-25\u00b0C.",
+      "July": "Continuous rainfall, difficult to travel and explore the city. Temperature ranges from 12-22\u00b0C.",
+      "August": "Rainfall continues, but the scenery is lush and green. Temperature ranges from 10-20\u00b0C.",
+      "September": "Weather starts to clear up, pleasant and cool. Temperature ranges from 10-22\u00b0C.",
+      "October": "Ideal weather, cool and dry, perfect for trekking and outdoor activities. Temperature ranges from 8-20\u00b0C.",
+      "November": "Pleasant and sunny, great for sightseeing and visiting local markets. Temperature ranges from 10-22\u00b0C.",
+      "December": "Cool and dry, good for exploring the city and its surroundings. Temperature ranges from 6-18\u00b0C."
+    },
+    "entry_fees": {
+      "Umiam Lake": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Elephant Falls": "Rs. 20 per person (Indians), free for students with ID",
+      "Don Bosco Museum": "Rs. 100 per person (Indians), Rs. 50 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Shillong": "Rs. 500-700 per bed in dorm",
+      "Hotel Broadway": "Rs. 800-1200 per room",
+      "Shillong Backpackers": "Rs. 400-600 per bed in dorm"
+    },
+    "food": {
+      "Jadoh Restaurant (Khasi cuisine)": "Lunch (Rs. 150-250), Dinner (Rs. 200-300)",
+      "Golchha Dhaba (North Indian cuisine)": "Lunch (Rs. 100-200), Dinner (Rs. 150-250)",
+      "Trattoria (Italian cuisine)": "Lunch (Rs. 200-350), Dinner (Rs. 300-450)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket",
+      "Taxis": "Rs. 100-200 depending on distance"
+    },
+    "must_visit": [
+      "Umiam Lake",
+      "Elephant Falls",
+      "Don Bosco Museum",
+      "Ward's Lake",
+      "Lady Hydari Park"
+    ]
+  },
+  "Puri": {
+    "state": "Odisha",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonal_notes": {
+      "January": "Cool and pleasant weather, ideal for visiting temples and beaches. Avoid water activities during high tide.",
+      "February": "Mild winter, perfect for outdoor activities like sunbathing and beach walks.",
+      "March": "Temperature starts rising, but still a good time to visit. Avoid visiting during Holi festival for crowded streets.",
+      "April": "Hot and humid, but the city is less crowded. Prefer indoor activities during the day.",
+      "May": "Peak summer, extremely hot and humid. Avoid visiting during this time if possible.",
+      "June": "Monsoon starts, heavy rainfall expected. Prefer indoor activities and avoid water activities.",
+      "July": "Continuous rainfall, but the city is lush green. Avoid visiting during peak monsoon.",
+      "August": "Rainfall decreases, but still humid. Prefer indoor activities during the day.",
+      "September": "Weather starts to cool down, ideal for visiting temples and beaches.",
+      "October": "Pleasant weather, perfect for outdoor activities like beach walks and sunbathing.",
+      "November": "Cool and pleasant weather, ideal for visiting temples and beaches. Avoid water activities during high tide.",
+      "December": "Mild winter, perfect for outdoor activities like sunbathing and beach walks."
+    },
+    "entry_fees": {
+      "Jagannath Temple": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Puri Beach": "Free"
+    },
+    "budget_stays": {
+      "Zostel Puri": "Rs. 500-700 per bed in dorm",
+      "Puri Hotel": "Rs. 800-1200 per room"
+    },
+    "food": {
+      "Gopal's Dhaba (near Jagannath Temple)": "Lunch (Rs. 150-200), Dinner (Rs. 200-250)",
+      "Bhabiji's Kitchen (near Puri Beach)": "Breakfast (Rs. 100-150), Snacks (Rs. 50-100)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Jagannath Temple",
+      "Puri Beach",
+      "Chilika Lake"
+    ]
+  },
+  "Ahmedabad": {
+    "state": "Gujarat",
+    "best_months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "avoid_months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "seasonal_notes": {
+      "January": "Pleasant weather, ideal for outdoor activities like visiting the Sabarmati Ashram and exploring the old city. Average temperature ranges from 12-25 degrees Celsius.",
+      "February": "Mild winter, perfect for visiting the Ahmedabad Flower Show and exploring the city's gardens. Average temperature ranges from 15-28 degrees Celsius.",
+      "March": "Temperature starts rising, but still a good time to visit the city's museums and indoor attractions. Average temperature ranges from 20-32 degrees Celsius.",
+      "April": "Hot and dry, avoid outdoor activities during the peak sun hours. Average temperature ranges from 25-38 degrees Celsius.",
+      "May": "Very hot, prefer indoor activities and stay hydrated. Average temperature ranges from 28-42 degrees Celsius.",
+      "June": "Start of the monsoon season, expect occasional rain showers. Average temperature ranges from 28-38 degrees Celsius.",
+      "July": "Monsoon season, some outdoor activities might be restricted due to rain. Average temperature ranges from 25-32 degrees Celsius.",
+      "August": "Monsoon season, expect frequent rain showers. Average temperature ranges from 24-30 degrees Celsius.",
+      "September": "End of the monsoon season, pleasant weather returns. Average temperature ranges from 22-30 degrees Celsius.",
+      "October": "Pleasant weather, ideal for outdoor activities like visiting the Navratri celebrations. Average temperature ranges from 20-30 degrees Celsius.",
+      "November": "Mild winter, perfect for visiting the city's historical landmarks. Average temperature ranges from 18-28 degrees Celsius.",
+      "December": "Cool winter, ideal for exploring the city's markets and trying street food. Average temperature ranges from 12-25 degrees Celsius."
+    },
+    "entry_fees": {
+      "Sabarmati Ashram": "Free, but a donation of Rs. 10-20 is appreciated",
+      "Calico Museum of Textiles": "Rs. 50 per person (Indians), Rs. 20 for students with ID",
+      "Akshardham Temple": "Rs. 100 per person (Indians), Rs. 50 for students with ID"
+    },
+    "budget_stays": {
+      "Zostel Ahmedabad": "Rs. 500-700 per bed in dorm",
+      "Hotel Royal Highness": "Rs. 800-1200 per room",
+      "Guest House Ahmedabad": "Rs. 600-1000 per room"
+    },
+    "food": {
+      "Agashiye (Gujarati thali)": "Lunch/Dinner (Rs. 150-250)",
+      "Manek Chowk (Street food)": "Snacks (Rs. 50-100)",
+      "Havmor (Ice cream and snacks)": "Snacks (Rs. 100-200)",
+      "Rajwadu (Gujarati cuisine)": "Lunch/Dinner (Rs. 200-350)"
+    },
+    "local_transport": {
+      "Auto Rickshaw": "Rs. 40-100 depending on distance",
+      "Local Bus (AMTS)": "Rs. 10-30 per ticket",
+      "Metro": "Rs. 10-30 per ticket"
+    },
+    "must_visit": [
+      "Sabarmati Ashram",
+      "Akshardham Temple",
+      "Calico Museum of Textiles",
+      "Bhadra Fort",
+      "Lal Darwaza"
+    ]
+  }
+}

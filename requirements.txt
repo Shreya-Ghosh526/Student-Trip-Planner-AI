@@ -1,0 +1,18 @@
+# === STREAMLIT + MAP ===
+streamlit>=1.35.0          # the entire UI framework
+folium>=0.17.0             # interactive maps on OpenStreetMap tiles
+streamlit-folium>=0.21.0   # embeds folium maps inside Streamlit
+
+# === LLM ===
+
+groq>=0.9.0
+
+# === GEOCODING ===
+geopy>=2.4.1               # thin wrapper around Nominatim (OpenStreetMap geocoder)
+
+# === PDF EXPORT ===
+fpdf2>=2.7.9               # generates downloadable PDF itineraries
+
+# === UTILITIES ===
+requests>=2.31.0           # raw HTTP calls (fallback geocoding if needed)
+python-dotenv>=1.0.0       # loads .env file so API keys never go in source code

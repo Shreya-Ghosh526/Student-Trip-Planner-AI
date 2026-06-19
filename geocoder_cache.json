@@ -1,0 +1,44 @@
+{
+  "Goa, India": {
+    "city": "Goa, India",
+    "lat": 15.300454,
+    "lng": 74.085513,
+    "display_name": "Goa, India"
+  },
+  "Manali, India": {
+    "city": "Manali, India",
+    "lat": 32.245461,
+    "lng": 77.187293,
+    "display_name": "Manali, Kullu, Himachal Pradesh, 175131, India"
+  },
+  "Jaipur, India": {
+    "city": "Jaipur, India",
+    "lat": 26.915458,
+    "lng": 75.818982,
+    "display_name": "Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302001, India"
+  },
+  "kolkata, India": {
+    "city": "kolkata, India",
+    "lat": 22.572646,
+    "lng": 88.363895,
+    "display_name": "Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India"
+  },
+  "Mumbai, India": {
+    "city": "Mumbai, India",
+    "lat": 19.054999,
+    "lng": 72.869203,
+    "display_name": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India"
+  },
+  "Kochi, India": {
+    "city": "Kochi, India",
+    "lat": 9.967903,
+    "lng": 76.244438,
+    "display_name": "Kochi, Ernakulam, Kerala, 682001, India"
+  },
+  "Ooty, India": {
+    "city": "Ooty, India",
+    "lat": 11.412677,
+    "lng": 76.70305,
+    "display_name": "Udhagamandalam, Nilgiris, Tamil Nadu, 643001, India"
+  }
+}
